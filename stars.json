@@ -1,20 +1,20 @@
 [
   {
     "full_name": "harlan-zw/unlighthouse",
-    "stargazers_count": 2577,
-    "open_issues_count": 35,
-    "forks_count": 57
+    "stargazers_count": 2595,
+    "open_issues_count": 33,
+    "forks_count": 59
   },
   {
     "full_name": "vadimdemedes/ink-ui",
-    "stargazers_count": 1188,
+    "stargazers_count": 1225,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "ndom91/briefkasten",
-    "stargazers_count": 535,
-    "open_issues_count": 22,
+    "stargazers_count": 537,
+    "open_issues_count": 24,
     "forks_count": 28
   },
   {
@@ -37,25 +37,25 @@
   },
   {
     "full_name": "marcj/TypeRunner",
-    "stargazers_count": 2491,
+    "stargazers_count": 2492,
     "open_issues_count": 3,
     "forks_count": 34
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 34521,
-    "open_issues_count": 24875,
-    "forks_count": 3614
+    "stargazers_count": 34625,
+    "open_issues_count": 24942,
+    "forks_count": 3632
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 92068,
-    "open_issues_count": 18,
-    "forks_count": 11957
+    "stargazers_count": 92218,
+    "open_issues_count": 17,
+    "forks_count": 11975
   },
   {
     "full_name": "LukasMasuch/best-of-react",
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "open_issues_count": 1,
     "forks_count": 40
   },
@@ -67,105 +67,105 @@
   },
   {
     "full_name": "Hack-with-Github/Awesome-Hacking",
-    "stargazers_count": 65991,
+    "stargazers_count": 66139,
     "open_issues_count": 23,
-    "forks_count": 8548
+    "forks_count": 8555
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 834,
+    "stargazers_count": 837,
     "open_issues_count": 10,
     "forks_count": 25
   },
   {
     "full_name": "loverajoel/jstips",
-    "stargazers_count": 12471,
+    "stargazers_count": 12472,
     "open_issues_count": 8,
     "forks_count": 818
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 28749,
+    "stargazers_count": 28761,
     "open_issues_count": 13,
     "forks_count": 3285
   },
   {
     "full_name": "goldbergyoni/javascript-testing-best-practices",
-    "stargazers_count": 21593,
+    "stargazers_count": 21597,
     "open_issues_count": 59,
-    "forks_count": 1908
+    "forks_count": 1910
   },
   {
     "full_name": "Developer-Y/Scalable-Software-Architecture",
-    "stargazers_count": 1793,
+    "stargazers_count": 1794,
     "open_issues_count": 0,
     "forks_count": 387
   },
   {
     "full_name": "BuilderIO/framework-benchmarks",
-    "stargazers_count": 420,
+    "stargazers_count": 421,
     "open_issues_count": 5,
     "forks_count": 20
   },
   {
     "full_name": "jhuangtw/xg2xg",
-    "stargazers_count": 12466,
+    "stargazers_count": 12469,
     "open_issues_count": 42,
     "forks_count": 897
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 36146,
+    "stargazers_count": 36200,
     "open_issues_count": 2,
-    "forks_count": 3102
+    "forks_count": 3106
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 204326,
+    "stargazers_count": 204810,
     "open_issues_count": 279,
-    "forks_count": 19896
+    "forks_count": 19955
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 18916,
+    "stargazers_count": 18976,
     "open_issues_count": 43,
-    "forks_count": 1757
+    "forks_count": 1763
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 44257,
-    "open_issues_count": 18,
-    "forks_count": 9858
+    "stargazers_count": 44304,
+    "open_issues_count": 19,
+    "forks_count": 9888
   },
   {
     "full_name": "nodejs/corepack",
-    "stargazers_count": 1462,
+    "stargazers_count": 1469,
     "open_issues_count": 41,
     "forks_count": 84
   },
   {
     "full_name": "sourabh-joshi/awesome-quincy-larson-emails",
-    "stargazers_count": 1047,
+    "stargazers_count": 1049,
     "open_issues_count": 0,
     "forks_count": 123
   },
   {
     "full_name": "anderspitman/awesome-tunneling",
-    "stargazers_count": 9192,
-    "open_issues_count": 36,
-    "forks_count": 453
+    "stargazers_count": 9214,
+    "open_issues_count": 39,
+    "forks_count": 458
   },
   {
     "full_name": "stefanjudis/tiny-helpers",
     "stargazers_count": 855,
     "open_issues_count": 26,
-    "forks_count": 292
+    "forks_count": 291
   },
   {
     "full_name": "twitter/typeahead.js",
     "stargazers_count": 16525,
     "open_issues_count": 510,
-    "forks_count": 3297
+    "forks_count": 3298
   },
   {
     "full_name": "robinweser/fela",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "TencentARC/GFPGAN",
-    "stargazers_count": 29624,
-    "open_issues_count": 236,
-    "forks_count": 4674
+    "stargazers_count": 29713,
+    "open_issues_count": 238,
+    "forks_count": 4701
   }
 ]
