@@ -1,9 +1,9 @@
 [
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 7126,
-    "open_issues_count": 34,
-    "forks_count": 1034
+    "stargazers_count": 7351,
+    "open_issues_count": 35,
+    "forks_count": 1065
   },
   {
     "full_name": "lokalise/node-service-template",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "michael-andreuzza/astrosaas",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "ixartz/Serverless-Boilerplate-Express-TypeScript",
-    "stargazers_count": 473,
+    "stargazers_count": 474,
     "open_issues_count": 1,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "andrewdavey/immutable-devtools",
@@ -61,31 +61,31 @@
   },
   {
     "full_name": "nucliweb/webperf-snippets",
-    "stargazers_count": 1176,
+    "stargazers_count": 1179,
     "open_issues_count": 2,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "rviscomi/capo.js",
-    "stargazers_count": 563,
+    "stargazers_count": 570,
     "open_issues_count": 20,
     "forks_count": 10
   },
   {
     "full_name": "toeverything/blocksuite",
-    "stargazers_count": 2647,
-    "open_issues_count": 228,
-    "forks_count": 211
+    "stargazers_count": 2660,
+    "open_issues_count": 144,
+    "forks_count": 214
   },
   {
     "full_name": "oramasearch/orama",
-    "stargazers_count": 6246,
-    "open_issues_count": 31,
+    "stargazers_count": 6259,
+    "open_issues_count": 29,
     "forks_count": 174
   },
   {
     "full_name": "Sh4yy/vercel-email",
-    "stargazers_count": 389,
+    "stargazers_count": 390,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -103,62 +103,62 @@
   },
   {
     "full_name": "preactjs/preact",
-    "stargazers_count": 34867,
-    "open_issues_count": 245,
-    "forks_count": 1931
+    "stargazers_count": 34885,
+    "open_issues_count": 247,
+    "forks_count": 1932
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 12174,
-    "open_issues_count": 48,
-    "forks_count": 365
+    "stargazers_count": 12256,
+    "open_issues_count": 56,
+    "forks_count": 371
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 28660,
-    "open_issues_count": 50,
-    "forks_count": 790
+    "stargazers_count": 28704,
+    "open_issues_count": 51,
+    "forks_count": 791
   },
   {
     "full_name": "callstack/linaria",
-    "stargazers_count": 10755,
-    "open_issues_count": 178,
+    "stargazers_count": 10758,
+    "open_issues_count": 179,
     "forks_count": 428
   },
   {
     "full_name": "microsoft/griffel",
-    "stargazers_count": 991,
-    "open_issues_count": 29,
-    "forks_count": 49
+    "stargazers_count": 994,
+    "open_issues_count": 30,
+    "forks_count": 48
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8534,
+    "stargazers_count": 8561,
     "open_issues_count": 57,
     "forks_count": 230
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 2947,
-    "open_issues_count": 10,
-    "forks_count": 99
+    "stargazers_count": 2976,
+    "open_issues_count": 9,
+    "forks_count": 101
   },
   {
     "full_name": "steven-tey/precedent",
-    "stargazers_count": 3583,
+    "stargazers_count": 3602,
     "open_issues_count": 20,
-    "forks_count": 278
+    "forks_count": 279
   },
   {
     "full_name": "felipefialho/frontend-challenges",
-    "stargazers_count": 12343,
+    "stargazers_count": 12357,
     "open_issues_count": 1,
-    "forks_count": 1140
+    "forks_count": 1138
   },
   {
     "full_name": "harlan-zw/unlighthouse",
-    "stargazers_count": 2900,
-    "open_issues_count": 39,
+    "stargazers_count": 2909,
+    "open_issues_count": 40,
     "forks_count": 68
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "ndom91/briefkasten",
-    "stargazers_count": 574,
+    "stargazers_count": 577,
     "open_issues_count": 25,
     "forks_count": 31
   },
