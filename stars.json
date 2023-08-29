@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "paradite/frontend-encyclopedia",
+    "stargazers_count": 214,
+    "open_issues_count": 7,
+    "forks_count": 49
+  },
+  {
     "full_name": "langgenius/dify",
-    "stargazers_count": 7735,
-    "open_issues_count": 42,
-    "forks_count": 1117
+    "stargazers_count": 7884,
+    "open_issues_count": 31,
+    "forks_count": 1144
   },
   {
     "full_name": "lokalise/node-service-template",
-    "stargazers_count": 267,
-    "open_issues_count": 4,
-    "forks_count": 13
+    "stargazers_count": 266,
+    "open_issues_count": 5,
+    "forks_count": 14
   },
   {
     "full_name": "yisar/asta",
@@ -19,14 +25,14 @@
   },
   {
     "full_name": "michael-andreuzza/astrosaas",
-    "stargazers_count": 116,
+    "stargazers_count": 118,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "ixartz/Serverless-Boilerplate-Express-TypeScript",
-    "stargazers_count": 479,
-    "open_issues_count": 1,
+    "stargazers_count": 482,
+    "open_issues_count": 2,
     "forks_count": 69
   },
   {
@@ -61,31 +67,31 @@
   },
   {
     "full_name": "nucliweb/webperf-snippets",
-    "stargazers_count": 1185,
+    "stargazers_count": 1189,
     "open_issues_count": 2,
     "forks_count": 67
   },
   {
     "full_name": "rviscomi/capo.js",
-    "stargazers_count": 575,
+    "stargazers_count": 599,
     "open_issues_count": 20,
     "forks_count": 11
   },
   {
     "full_name": "toeverything/blocksuite",
-    "stargazers_count": 2725,
-    "open_issues_count": 130,
-    "forks_count": 224
+    "stargazers_count": 2770,
+    "open_issues_count": 134,
+    "forks_count": 230
   },
   {
     "full_name": "oramasearch/orama",
-    "stargazers_count": 6281,
-    "open_issues_count": 29,
-    "forks_count": 176
+    "stargazers_count": 6293,
+    "open_issues_count": 31,
+    "forks_count": 179
   },
   {
     "full_name": "Sh4yy/vercel-email",
-    "stargazers_count": 394,
+    "stargazers_count": 396,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -103,80 +109,74 @@
   },
   {
     "full_name": "preactjs/preact",
-    "stargazers_count": 34912,
+    "stargazers_count": 34931,
     "open_issues_count": 246,
     "forks_count": 1934
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 12421,
-    "open_issues_count": 60,
-    "forks_count": 383
+    "stargazers_count": 12527,
+    "open_issues_count": 58,
+    "forks_count": 384
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 28770,
-    "open_issues_count": 53,
+    "stargazers_count": 28792,
+    "open_issues_count": 54,
     "forks_count": 793
   },
   {
     "full_name": "callstack/linaria",
-    "stargazers_count": 10770,
+    "stargazers_count": 10772,
     "open_issues_count": 180,
     "forks_count": 429
   },
   {
     "full_name": "microsoft/griffel",
-    "stargazers_count": 997,
-    "open_issues_count": 31,
+    "stargazers_count": 998,
+    "open_issues_count": 29,
     "forks_count": 48
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8604,
+    "stargazers_count": 8612,
     "open_issues_count": 56,
     "forks_count": 231
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3028,
-    "open_issues_count": 12,
-    "forks_count": 105
+    "stargazers_count": 3052,
+    "open_issues_count": 14,
+    "forks_count": 107
   },
   {
     "full_name": "steven-tey/precedent",
-    "stargazers_count": 3651,
-    "open_issues_count": 20,
-    "forks_count": 281
+    "stargazers_count": 3665,
+    "open_issues_count": 21,
+    "forks_count": 289
   },
   {
     "full_name": "felipefialho/frontend-challenges",
-    "stargazers_count": 12369,
+    "stargazers_count": 12383,
     "open_issues_count": 1,
-    "forks_count": 1139
+    "forks_count": 1140
   },
   {
     "full_name": "harlan-zw/unlighthouse",
-    "stargazers_count": 2996,
+    "stargazers_count": 3033,
     "open_issues_count": 42,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "vadimdemedes/ink-ui",
-    "stargazers_count": 1294,
+    "stargazers_count": 1300,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "ndom91/briefkasten",
-    "stargazers_count": 581,
+    "stargazers_count": 584,
     "open_issues_count": 25,
     "forks_count": 31
-  },
-  {
-    "full_name": "LunarFang416/url-animations",
-    "stargazers_count": 267,
-    "open_issues_count": 1,
-    "forks_count": 8
   }
 ]
