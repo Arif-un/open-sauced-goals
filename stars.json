@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "mdx-editor/editor",
+    "stargazers_count": 517,
+    "open_issues_count": 16,
+    "forks_count": 30
+  },
+  {
+    "full_name": "alnahian2003/learn-laravel",
+    "stargazers_count": 62,
+    "open_issues_count": 0,
+    "forks_count": 39
+  },
+  {
     "full_name": "guocaoyi/create-chrome-ext",
-    "stargazers_count": 496,
+    "stargazers_count": 622,
     "open_issues_count": 11,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "TSOptics/optics",
-    "stargazers_count": 98,
-    "open_issues_count": 3,
+    "stargazers_count": 103,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "Plachtaa/VALL-E-X",
-    "stargazers_count": 5397,
-    "open_issues_count": 35,
-    "forks_count": 474
+    "stargazers_count": 5455,
+    "open_issues_count": 34,
+    "forks_count": 482
   },
   {
     "full_name": "paradite/frontend-encyclopedia",
@@ -67,13 +79,13 @@
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 8538,
-    "open_issues_count": 32,
-    "forks_count": 1248
+    "stargazers_count": 8641,
+    "open_issues_count": 36,
+    "forks_count": 1264
   },
   {
     "full_name": "lokalise/node-service-template",
-    "stargazers_count": 268,
+    "stargazers_count": 269,
     "open_issues_count": 4,
     "forks_count": 14
   },
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "michael-andreuzza/astrosaas",
-    "stargazers_count": 131,
+    "stargazers_count": 133,
     "open_issues_count": 0,
-    "forks_count": 39
+    "forks_count": 41
   },
   {
     "full_name": "ixartz/Serverless-Boilerplate-Express-TypeScript",
@@ -121,37 +133,37 @@
   },
   {
     "full_name": "leokhoa/Aws-Solution-Architect-Notes",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "nucliweb/webperf-snippets",
-    "stargazers_count": 1224,
+    "stargazers_count": 1225,
     "open_issues_count": 2,
     "forks_count": 67
   },
   {
     "full_name": "rviscomi/capo.js",
-    "stargazers_count": 658,
+    "stargazers_count": 662,
     "open_issues_count": 18,
     "forks_count": 12
   },
   {
     "full_name": "toeverything/blocksuite",
-    "stargazers_count": 2849,
+    "stargazers_count": 2865,
     "open_issues_count": 156,
-    "forks_count": 240
+    "forks_count": 241
   },
   {
     "full_name": "oramasearch/orama",
-    "stargazers_count": 6386,
-    "open_issues_count": 23,
-    "forks_count": 189
+    "stargazers_count": 6400,
+    "open_issues_count": 24,
+    "forks_count": 188
   },
   {
     "full_name": "Sh4yy/vercel-email",
-    "stargazers_count": 397,
+    "stargazers_count": 398,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 2,
     "forks_count": 6
-  },
-  {
-    "full_name": "preactjs/preact",
-    "stargazers_count": 35043,
-    "open_issues_count": 248,
-    "forks_count": 1944
-  },
-  {
-    "full_name": "aidenybai/million",
-    "stargazers_count": 12728,
-    "open_issues_count": 61,
-    "forks_count": 405
   }
 ]
