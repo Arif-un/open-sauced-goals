@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "Arif-un/jcof-php",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "mortie/jcof",
+    "stargazers_count": 151,
+    "open_issues_count": 7,
+    "forks_count": 1
+  },
+  {
     "full_name": "mdx-editor/editor",
-    "stargazers_count": 517,
-    "open_issues_count": 16,
+    "stargazers_count": 558,
+    "open_issues_count": 18,
     "forks_count": 30
   },
   {
@@ -13,9 +25,9 @@
   },
   {
     "full_name": "guocaoyi/create-chrome-ext",
-    "stargazers_count": 622,
-    "open_issues_count": 11,
-    "forks_count": 49
+    "stargazers_count": 658,
+    "open_issues_count": 12,
+    "forks_count": 50
   },
   {
     "full_name": "TSOptics/optics",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "Plachtaa/VALL-E-X",
-    "stargazers_count": 5455,
+    "stargazers_count": 5539,
     "open_issues_count": 34,
-    "forks_count": 482
+    "forks_count": 489
   },
   {
     "full_name": "paradite/frontend-encyclopedia",
@@ -79,13 +91,13 @@
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 8641,
+    "stargazers_count": 8704,
     "open_issues_count": 36,
-    "forks_count": 1264
+    "forks_count": 1271
   },
   {
     "full_name": "lokalise/node-service-template",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 4,
     "forks_count": 14
   },
@@ -103,13 +115,13 @@
   },
   {
     "full_name": "ixartz/Serverless-Boilerplate-Express-TypeScript",
-    "stargazers_count": 488,
+    "stargazers_count": 489,
     "open_issues_count": 2,
     "forks_count": 71
   },
   {
     "full_name": "andrewdavey/immutable-devtools",
-    "stargazers_count": 652,
+    "stargazers_count": 653,
     "open_issues_count": 8,
     "forks_count": 36
   },
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "rviscomi/capo.js",
-    "stargazers_count": 662,
+    "stargazers_count": 668,
     "open_issues_count": 18,
     "forks_count": 12
   },
   {
     "full_name": "toeverything/blocksuite",
-    "stargazers_count": 2865,
-    "open_issues_count": 156,
+    "stargazers_count": 2874,
+    "open_issues_count": 153,
     "forks_count": 241
   },
   {
     "full_name": "oramasearch/orama",
-    "stargazers_count": 6400,
+    "stargazers_count": 6410,
     "open_issues_count": 24,
-    "forks_count": 188
+    "forks_count": 191
   },
   {
     "full_name": "Sh4yy/vercel-email",
     "stargazers_count": 398,
     "open_issues_count": 2,
     "forks_count": 5
-  },
-  {
-    "full_name": "mmilanovic4/mvc",
-    "stargazers_count": 35,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "mdrubelamin2/pciu-cgpa-calculator",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 6
   }
 ]
