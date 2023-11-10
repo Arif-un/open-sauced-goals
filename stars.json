@@ -1,51 +1,63 @@
 [
   {
+    "full_name": "josdejong/csv42",
+    "stargazers_count": 76,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "isaacs/node-glob",
+    "stargazers_count": 8186,
+    "open_issues_count": 5,
+    "forks_count": 530
+  },
+  {
     "full_name": "customerio/howtotarget",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 8,
     "forks_count": 6
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 241,
-    "open_issues_count": 13,
-    "forks_count": 34
+    "stargazers_count": 242,
+    "open_issues_count": 14,
+    "forks_count": 35
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 2530,
+    "stargazers_count": 2539,
     "open_issues_count": 13,
     "forks_count": 62
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 16425,
-    "open_issues_count": 496,
-    "forks_count": 939
+    "stargazers_count": 16433,
+    "open_issues_count": 491,
+    "forks_count": 941
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 7045,
-    "open_issues_count": 123,
-    "forks_count": 236
+    "stargazers_count": 7064,
+    "open_issues_count": 120,
+    "forks_count": 237
   },
   {
     "full_name": "sindresorhus/devtools-detect",
-    "stargazers_count": 1929,
+    "stargazers_count": 1930,
     "open_issues_count": 23,
     "forks_count": 218
   },
   {
     "full_name": "nuxt/devtools",
-    "stargazers_count": 2371,
-    "open_issues_count": 42,
-    "forks_count": 110
+    "stargazers_count": 2374,
+    "open_issues_count": 37,
+    "forks_count": 113
   },
   {
     "full_name": "chibat/chrome-extension-typescript-starter",
-    "stargazers_count": 2054,
+    "stargazers_count": 2056,
     "open_issues_count": 7,
-    "forks_count": 338
+    "forks_count": 339
   },
   {
     "full_name": "Arif-un/react-multiple-select-dropdown-lite",
@@ -55,7 +67,7 @@
   },
   {
     "full_name": "gustavoguichard/string-ts",
-    "stargazers_count": 968,
+    "stargazers_count": 972,
     "open_issues_count": 2,
     "forks_count": 13
   },
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3511,
+    "stargazers_count": 3521,
     "open_issues_count": 43,
-    "forks_count": 126
+    "forks_count": 128
   },
   {
     "full_name": "Arif-un/jcof-php",
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "mdx-editor/editor",
-    "stargazers_count": 724,
-    "open_issues_count": 22,
+    "stargazers_count": 735,
+    "open_issues_count": 20,
     "forks_count": 46
   },
   {
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "guocaoyi/create-chrome-ext",
-    "stargazers_count": 784,
+    "stargazers_count": 795,
     "open_issues_count": 8,
     "forks_count": 59
   },
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "Plachtaa/VALL-E-X",
-    "stargazers_count": 6085,
-    "open_issues_count": 56,
-    "forks_count": 571
+    "stargazers_count": 6130,
+    "open_issues_count": 60,
+    "forks_count": 573
   },
   {
     "full_name": "paradite/frontend-encyclopedia",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 9430,
-    "open_issues_count": 43,
-    "forks_count": 1390
-  },
-  {
-    "full_name": "lokalise/node-service-template",
-    "stargazers_count": 277,
-    "open_issues_count": 4,
-    "forks_count": 14
-  },
-  {
-    "full_name": "yisar/asta",
-    "stargazers_count": 715,
-    "open_issues_count": 1,
-    "forks_count": 65
+    "stargazers_count": 9513,
+    "open_issues_count": 50,
+    "forks_count": 1405
   }
 ]
