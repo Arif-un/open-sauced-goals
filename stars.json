@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "microsoft/vscode-extension-samples",
+    "stargazers_count": 7699,
+    "open_issues_count": 70,
+    "forks_count": 3223
+  },
+  {
     "full_name": "pactumjs/pactum",
-    "stargazers_count": 465,
+    "stargazers_count": 468,
     "open_issues_count": 16,
     "forks_count": 41
   },
@@ -25,73 +31,73 @@
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 2909,
+    "stargazers_count": 3079,
     "open_issues_count": 215,
-    "forks_count": 273
+    "forks_count": 290
   },
   {
     "full_name": "adbayb/termost",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "josdejong/csv42",
-    "stargazers_count": 89,
+    "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "isaacs/node-glob",
-    "stargazers_count": 8226,
+    "stargazers_count": 8231,
     "open_issues_count": 6,
     "forks_count": 527
   },
   {
     "full_name": "customerio/howtotarget",
     "stargazers_count": 38,
-    "open_issues_count": 4,
-    "forks_count": 7
+    "open_issues_count": 6,
+    "forks_count": 8
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 262,
+    "stargazers_count": 268,
     "open_issues_count": 14,
-    "forks_count": 43
+    "forks_count": 52
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 2680,
-    "open_issues_count": 20,
-    "forks_count": 65
+    "stargazers_count": 2685,
+    "open_issues_count": 21,
+    "forks_count": 66
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 16532,
-    "open_issues_count": 493,
-    "forks_count": 951
+    "stargazers_count": 16542,
+    "open_issues_count": 454,
+    "forks_count": 955
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 7446,
-    "open_issues_count": 139,
+    "stargazers_count": 7471,
+    "open_issues_count": 138,
     "forks_count": 248
   },
   {
     "full_name": "sindresorhus/devtools-detect",
-    "stargazers_count": 1941,
+    "stargazers_count": 1942,
     "open_issues_count": 23,
     "forks_count": 219
   },
   {
     "full_name": "nuxt/devtools",
-    "stargazers_count": 2450,
-    "open_issues_count": 32,
-    "forks_count": 119
+    "stargazers_count": 2460,
+    "open_issues_count": 35,
+    "forks_count": 120
   },
   {
     "full_name": "chibat/chrome-extension-typescript-starter",
-    "stargazers_count": 2125,
+    "stargazers_count": 2131,
     "open_issues_count": 7,
     "forks_count": 366
   },
@@ -103,8 +109,8 @@
   },
   {
     "full_name": "gustavoguichard/string-ts",
-    "stargazers_count": 1027,
-    "open_issues_count": 5,
+    "stargazers_count": 1032,
+    "open_issues_count": 7,
     "forks_count": 16
   },
   {
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3621,
-    "open_issues_count": 51,
-    "forks_count": 139
+    "stargazers_count": 3639,
+    "open_issues_count": 47,
+    "forks_count": 140
   },
   {
     "full_name": "Arif-un/jcof-php",
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "mdx-editor/editor",
-    "stargazers_count": 830,
-    "open_issues_count": 23,
+    "stargazers_count": 843,
+    "open_issues_count": 26,
     "forks_count": 59
   },
   {
@@ -145,14 +151,14 @@
   },
   {
     "full_name": "guocaoyi/create-chrome-ext",
-    "stargazers_count": 865,
+    "stargazers_count": 875,
     "open_issues_count": 8,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "TSOptics/optics",
     "stargazers_count": 112,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "astahmer/tw2panda",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 4,
     "forks_count": 1
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "Arif-un/awesome-python",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
