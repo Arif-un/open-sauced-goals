@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "nick-keller/react-datasheet-grid",
+    "stargazers_count": 1564,
+    "open_issues_count": 43,
+    "forks_count": 125
+  },
+  {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7699,
-    "open_issues_count": 70,
-    "forks_count": 3223
+    "stargazers_count": 7706,
+    "open_issues_count": 71,
+    "forks_count": 3226
   },
   {
     "full_name": "pactumjs/pactum",
     "stargazers_count": 468,
-    "open_issues_count": 16,
-    "forks_count": 41
+    "open_issues_count": 17,
+    "forks_count": 42
   },
   {
     "full_name": "CanadaHonk/test262.fyi",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "bitjson/qr-code",
-    "stargazers_count": 595,
+    "stargazers_count": 603,
     "open_issues_count": 5,
     "forks_count": 31
   },
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 3079,
-    "open_issues_count": 215,
-    "forks_count": 290
+    "stargazers_count": 3170,
+    "open_issues_count": 214,
+    "forks_count": 292
   },
   {
     "full_name": "adbayb/termost",
@@ -49,57 +55,57 @@
   },
   {
     "full_name": "isaacs/node-glob",
-    "stargazers_count": 8231,
+    "stargazers_count": 8235,
     "open_issues_count": 6,
     "forks_count": 527
   },
   {
     "full_name": "customerio/howtotarget",
     "stargazers_count": 38,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 268,
+    "stargazers_count": 273,
     "open_issues_count": 14,
-    "forks_count": 52
+    "forks_count": 57
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 2685,
-    "open_issues_count": 21,
-    "forks_count": 66
+    "stargazers_count": 2996,
+    "open_issues_count": 22,
+    "forks_count": 70
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 16542,
-    "open_issues_count": 454,
-    "forks_count": 955
+    "stargazers_count": 16553,
+    "open_issues_count": 447,
+    "forks_count": 954
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 7471,
-    "open_issues_count": 138,
-    "forks_count": 248
+    "stargazers_count": 7485,
+    "open_issues_count": 139,
+    "forks_count": 249
   },
   {
     "full_name": "sindresorhus/devtools-detect",
-    "stargazers_count": 1942,
+    "stargazers_count": 1943,
     "open_issues_count": 23,
     "forks_count": 219
   },
   {
     "full_name": "nuxt/devtools",
-    "stargazers_count": 2460,
-    "open_issues_count": 35,
+    "stargazers_count": 2467,
+    "open_issues_count": 36,
     "forks_count": 120
   },
   {
     "full_name": "chibat/chrome-extension-typescript-starter",
-    "stargazers_count": 2131,
+    "stargazers_count": 2137,
     "open_issues_count": 7,
-    "forks_count": 366
+    "forks_count": 367
   },
   {
     "full_name": "Arif-un/react-multiple-select-dropdown-lite",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "gustavoguichard/string-ts",
-    "stargazers_count": 1032,
-    "open_issues_count": 7,
+    "stargazers_count": 1033,
+    "open_issues_count": 2,
     "forks_count": 16
   },
   {
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3639,
-    "open_issues_count": 47,
-    "forks_count": 140
+    "stargazers_count": 3753,
+    "open_issues_count": 48,
+    "forks_count": 149
   },
   {
     "full_name": "Arif-un/jcof-php",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "mortie/jcof",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "mdx-editor/editor",
-    "stargazers_count": 843,
-    "open_issues_count": 26,
-    "forks_count": 59
+    "stargazers_count": 853,
+    "open_issues_count": 23,
+    "forks_count": 61
   },
   {
     "full_name": "alnahian2003/learn-laravel",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "guocaoyi/create-chrome-ext",
-    "stargazers_count": 875,
+    "stargazers_count": 882,
     "open_issues_count": 8,
     "forks_count": 64
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 85,
     "open_issues_count": 4,
     "forks_count": 1
-  },
-  {
-    "full_name": "Arif-un/awesome-php",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
