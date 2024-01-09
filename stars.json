@@ -1,25 +1,25 @@
 [
   {
     "full_name": "alienkitty/space.js",
-    "stargazers_count": 218,
+    "stargazers_count": 222,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "nick-keller/react-datasheet-grid",
-    "stargazers_count": 1574,
-    "open_issues_count": 44,
-    "forks_count": 126
+    "stargazers_count": 1577,
+    "open_issues_count": 46,
+    "forks_count": 128
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7750,
+    "stargazers_count": 7764,
     "open_issues_count": 72,
-    "forks_count": 3235
+    "forks_count": 3246
   },
   {
     "full_name": "pactumjs/pactum",
-    "stargazers_count": 474,
+    "stargazers_count": 475,
     "open_issues_count": 17,
     "forks_count": 42
   },
@@ -32,7 +32,7 @@
   {
     "full_name": "bitjson/qr-code",
     "stargazers_count": 660,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 32
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 3245,
-    "open_issues_count": 199,
-    "forks_count": 301
+    "stargazers_count": 3265,
+    "open_issues_count": 202,
+    "forks_count": 305
   },
   {
     "full_name": "adbayb/termost",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "josdejong/csv42",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "isaacs/node-glob",
-    "stargazers_count": 8240,
+    "stargazers_count": 8244,
     "open_issues_count": 5,
     "forks_count": 527
   },
@@ -73,43 +73,43 @@
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 279,
+    "stargazers_count": 281,
     "open_issues_count": 16,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 3122,
-    "open_issues_count": 27,
-    "forks_count": 75
+    "stargazers_count": 3141,
+    "open_issues_count": 23,
+    "forks_count": 76
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 16578,
-    "open_issues_count": 427,
-    "forks_count": 957
+    "stargazers_count": 16585,
+    "open_issues_count": 431,
+    "forks_count": 958
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 7540,
-    "open_issues_count": 144,
+    "stargazers_count": 7562,
+    "open_issues_count": 147,
     "forks_count": 251
   },
   {
     "full_name": "sindresorhus/devtools-detect",
-    "stargazers_count": 1955,
+    "stargazers_count": 1957,
     "open_issues_count": 23,
     "forks_count": 219
   },
   {
     "full_name": "nuxt/devtools",
-    "stargazers_count": 2503,
-    "open_issues_count": 38,
-    "forks_count": 122
+    "stargazers_count": 2506,
+    "open_issues_count": 42,
+    "forks_count": 126
   },
   {
     "full_name": "chibat/chrome-extension-typescript-starter",
-    "stargazers_count": 2161,
+    "stargazers_count": 2169,
     "open_issues_count": 7,
     "forks_count": 371
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "gustavoguichard/string-ts",
-    "stargazers_count": 1071,
+    "stargazers_count": 1078,
     "open_issues_count": 5,
     "forks_count": 17
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 3900,
-    "open_issues_count": 51,
-    "forks_count": 155
+    "stargazers_count": 3911,
+    "open_issues_count": 50,
+    "forks_count": 156
   },
   {
     "full_name": "Arif-un/jcof-php",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "mdx-editor/editor",
-    "stargazers_count": 894,
-    "open_issues_count": 32,
-    "forks_count": 65
+    "stargazers_count": 910,
+    "open_issues_count": 28,
+    "forks_count": 66
   },
   {
     "full_name": "alnahian2003/learn-laravel",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "guocaoyi/create-chrome-ext",
-    "stargazers_count": 911,
-    "open_issues_count": 10,
-    "forks_count": 68
+    "stargazers_count": 926,
+    "open_issues_count": 11,
+    "forks_count": 67
   },
   {
     "full_name": "TSOptics/optics",
