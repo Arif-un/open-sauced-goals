@@ -1,7 +1,7 @@
 [
   {
     "full_name": "prevwong/reka.js",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 21,
     "forks_count": 26
   },
@@ -13,37 +13,37 @@
   },
   {
     "full_name": "ulixee/hero",
-    "stargazers_count": 554,
+    "stargazers_count": 557,
     "open_issues_count": 25,
     "forks_count": 25
   },
   {
     "full_name": "wotschofsky/domain-digger",
-    "stargazers_count": 245,
+    "stargazers_count": 248,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "orbitinghail/sqlsync",
-    "stargazers_count": 1667,
+    "stargazers_count": 1670,
     "open_issues_count": 26,
     "forks_count": 19
   },
   {
     "full_name": "chrisguttandin/worker-timers",
-    "stargazers_count": 511,
+    "stargazers_count": 512,
     "open_issues_count": 3,
     "forks_count": 26
   },
   {
     "full_name": "tinylibs/tinybench",
-    "stargazers_count": 1248,
+    "stargazers_count": 1257,
     "open_issues_count": 9,
     "forks_count": 26
   },
   {
     "full_name": "algolia/autocomplete",
-    "stargazers_count": 4710,
+    "stargazers_count": 4712,
     "open_issues_count": 42,
     "forks_count": 323
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "phuocng/frontend-tips",
-    "stargazers_count": 605,
+    "stargazers_count": 606,
     "open_issues_count": 1,
     "forks_count": 53
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "nick-keller/react-datasheet-grid",
-    "stargazers_count": 1647,
+    "stargazers_count": 1650,
     "open_issues_count": 47,
     "forks_count": 146
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 7998,
-    "open_issues_count": 79,
-    "forks_count": 3242
+    "stargazers_count": 8011,
+    "open_issues_count": 80,
+    "forks_count": 3244
   },
   {
     "full_name": "pactumjs/pactum",
-    "stargazers_count": 493,
-    "open_issues_count": 16,
-    "forks_count": 46
+    "stargazers_count": 495,
+    "open_issues_count": 19,
+    "forks_count": 47
   },
   {
     "full_name": "CanadaHonk/test262.fyi",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "bitjson/qr-code",
-    "stargazers_count": 951,
+    "stargazers_count": 954,
     "open_issues_count": 8,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "Arif-un/react-mix-tag-input",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 3603,
+    "stargazers_count": 3616,
     "open_issues_count": 194,
-    "forks_count": 335
+    "forks_count": 336
   },
   {
     "full_name": "adbayb/termost",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "isaacs/node-glob",
-    "stargazers_count": 8296,
+    "stargazers_count": 8299,
     "open_issues_count": 7,
     "forks_count": 465
   },
@@ -133,45 +133,45 @@
   },
   {
     "full_name": "replicate/zoo",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 19,
     "forks_count": 105
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 3342,
+    "stargazers_count": 3365,
     "open_issues_count": 25,
     "forks_count": 79
   },
   {
     "full_name": "redwoodjs/redwood",
     "stargazers_count": 16678,
-    "open_issues_count": 448,
-    "forks_count": 958
+    "open_issues_count": 446,
+    "forks_count": 957
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 8091,
+    "stargazers_count": 8119,
     "open_issues_count": 169,
-    "forks_count": 270
+    "forks_count": 273
   },
   {
     "full_name": "sindresorhus/devtools-detect",
-    "stargazers_count": 1988,
+    "stargazers_count": 1990,
     "open_issues_count": 23,
     "forks_count": 215
   },
   {
     "full_name": "nuxt/devtools",
-    "stargazers_count": 2640,
-    "open_issues_count": 55,
-    "forks_count": 144
+    "stargazers_count": 2646,
+    "open_issues_count": 48,
+    "forks_count": 145
   },
   {
     "full_name": "chibat/chrome-extension-typescript-starter",
-    "stargazers_count": 2273,
+    "stargazers_count": 2281,
     "open_issues_count": 8,
-    "forks_count": 378
+    "forks_count": 379
   },
   {
     "full_name": "Arif-un/react-multiple-select-dropdown-lite",
