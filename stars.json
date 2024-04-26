@@ -1,39 +1,39 @@
 [
   {
     "full_name": "saas-kits/remix-boilerplate",
-    "stargazers_count": 78,
+    "stargazers_count": 82,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "IORoot/SVGencode",
-    "stargazers_count": 15,
+    "stargazers_count": 18,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 2695,
+    "stargazers_count": 2719,
     "open_issues_count": 34,
-    "forks_count": 79
+    "forks_count": 81
   },
   {
     "full_name": "wg/wrk",
-    "stargazers_count": 36740,
+    "stargazers_count": 36760,
     "open_issues_count": 194,
-    "forks_count": 2887
+    "forks_count": 2888
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 148603,
+    "stargazers_count": 148698,
     "open_issues_count": 232,
-    "forks_count": 14257
+    "forks_count": 14267
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 25816,
+    "stargazers_count": 25840,
     "open_issues_count": 13,
-    "forks_count": 6121
+    "forks_count": 6124
   },
   {
     "full_name": "benz2012/wiggle-animate",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "miroslavpejic85/mirotalksfu",
-    "stargazers_count": 1816,
+    "stargazers_count": 1819,
     "open_issues_count": 2,
-    "forks_count": 295
+    "forks_count": 296
   },
   {
     "full_name": "prevwong/reka.js",
     "stargazers_count": 453,
-    "open_issues_count": 23,
-    "forks_count": 28
+    "open_issues_count": 22,
+    "forks_count": 29
   },
   {
     "full_name": "Arif-un/Codeigniter-Blog",
@@ -61,43 +61,43 @@
   },
   {
     "full_name": "ulixee/hero",
-    "stargazers_count": 577,
-    "open_issues_count": 27,
-    "forks_count": 27
+    "stargazers_count": 579,
+    "open_issues_count": 28,
+    "forks_count": 28
   },
   {
     "full_name": "wotschofsky/domain-digger",
-    "stargazers_count": 284,
-    "open_issues_count": 3,
+    "stargazers_count": 285,
+    "open_issues_count": 2,
     "forks_count": 33
   },
   {
     "full_name": "orbitinghail/sqlsync",
-    "stargazers_count": 1715,
+    "stargazers_count": 1717,
     "open_issues_count": 26,
     "forks_count": 20
   },
   {
     "full_name": "chrisguttandin/worker-timers",
-    "stargazers_count": 529,
+    "stargazers_count": 532,
     "open_issues_count": 3,
     "forks_count": 26
   },
   {
     "full_name": "tinylibs/tinybench",
-    "stargazers_count": 1443,
+    "stargazers_count": 1452,
     "open_issues_count": 9,
     "forks_count": 30
   },
   {
     "full_name": "algolia/autocomplete",
-    "stargazers_count": 4727,
+    "stargazers_count": 4728,
     "open_issues_count": 43,
     "forks_count": 324
   },
   {
     "full_name": "rohitrastogi/Interview-Prep",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -109,25 +109,25 @@
   },
   {
     "full_name": "alienkitty/space.js",
-    "stargazers_count": 295,
+    "stargazers_count": 322,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "nick-keller/react-datasheet-grid",
-    "stargazers_count": 1677,
+    "stargazers_count": 1681,
     "open_issues_count": 51,
-    "forks_count": 150
+    "forks_count": 152
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 8112,
-    "open_issues_count": 84,
+    "stargazers_count": 8121,
+    "open_issues_count": 85,
     "forks_count": 3251
   },
   {
     "full_name": "pactumjs/pactum",
-    "stargazers_count": 498,
+    "stargazers_count": 499,
     "open_issues_count": 11,
     "forks_count": 49
   },
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "bitjson/qr-code",
-    "stargazers_count": 1029,
-    "open_issues_count": 9,
+    "stargazers_count": 1028,
+    "open_issues_count": 10,
     "forks_count": 49
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 3717,
-    "open_issues_count": 195,
+    "stargazers_count": 3733,
+    "open_issues_count": 199,
     "forks_count": 347
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "isaacs/node-glob",
-    "stargazers_count": 8326,
-    "open_issues_count": 7,
+    "stargazers_count": 8330,
+    "open_issues_count": 8,
     "forks_count": 466
   },
   {
     "full_name": "customerio/howtotarget",
     "stargazers_count": 43,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 10
   }
 ]
