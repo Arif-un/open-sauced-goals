@@ -1,21 +1,21 @@
 [
   {
     "full_name": "sidpalas/devops-directive-docker-course",
-    "stargazers_count": 1469,
+    "stargazers_count": 1476,
     "open_issues_count": 10,
-    "forks_count": 868
+    "forks_count": 876
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 182636,
+    "stargazers_count": 183103,
     "open_issues_count": 0,
-    "forks_count": 9097
+    "forks_count": 9115
   },
   {
     "full_name": "fuma-nama/fumadocs",
-    "stargazers_count": 641,
-    "open_issues_count": 9,
-    "forks_count": 36
+    "stargazers_count": 659,
+    "open_issues_count": 6,
+    "forks_count": 37
   },
   {
     "full_name": "sjsakib/gold-price",
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "DannyMoerkerke/whatpwacando.today",
-    "stargazers_count": 498,
+    "stargazers_count": 502,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "firecmsco/neat",
-    "stargazers_count": 141,
+    "stargazers_count": 144,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 27457,
-    "open_issues_count": 27,
-    "forks_count": 1225
+    "stargazers_count": 27527,
+    "open_issues_count": 28,
+    "forks_count": 1228
   },
   {
     "full_name": "saas-kits/remix-boilerplate",
-    "stargazers_count": 117,
+    "stargazers_count": 120,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 3100,
-    "open_issues_count": 36,
-    "forks_count": 100
+    "stargazers_count": 3119,
+    "open_issues_count": 37,
+    "forks_count": 102
   },
   {
     "full_name": "wg/wrk",
-    "stargazers_count": 36989,
+    "stargazers_count": 37018,
     "open_issues_count": 195,
     "forks_count": 2899
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 150032,
+    "stargazers_count": 150245,
     "open_issues_count": 240,
-    "forks_count": 14362
+    "forks_count": 14378
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 25988,
+    "stargazers_count": 26021,
     "open_issues_count": 12,
-    "forks_count": 6155
+    "forks_count": 6163
   },
   {
     "full_name": "benz2012/wiggle-animate",
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "miroslavpejic85/mirotalksfu",
-    "stargazers_count": 1905,
+    "stargazers_count": 1911,
     "open_issues_count": 2,
-    "forks_count": 308
+    "forks_count": 309
   },
   {
     "full_name": "prevwong/reka.js",
-    "stargazers_count": 494,
-    "open_issues_count": 24,
+    "stargazers_count": 496,
+    "open_issues_count": 25,
     "forks_count": 31
   },
   {
@@ -103,37 +103,37 @@
   },
   {
     "full_name": "ulixee/hero",
-    "stargazers_count": 627,
+    "stargazers_count": 629,
     "open_issues_count": 35,
     "forks_count": 31
   },
   {
     "full_name": "wotschofsky/domain-digger",
-    "stargazers_count": 314,
+    "stargazers_count": 316,
     "open_issues_count": 2,
     "forks_count": 33
   },
   {
     "full_name": "orbitinghail/sqlsync",
-    "stargazers_count": 1760,
+    "stargazers_count": 1813,
     "open_issues_count": 26,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "chrisguttandin/worker-timers",
-    "stargazers_count": 547,
+    "stargazers_count": 548,
     "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "tinylibs/tinybench",
-    "stargazers_count": 1559,
+    "stargazers_count": 1561,
     "open_issues_count": 12,
     "forks_count": 31
   },
   {
     "full_name": "algolia/autocomplete",
-    "stargazers_count": 4934,
+    "stargazers_count": 4939,
     "open_issues_count": 45,
     "forks_count": 326
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "alienkitty/space.js",
-    "stargazers_count": 366,
+    "stargazers_count": 368,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 8272,
-    "open_issues_count": 87,
+    "stargazers_count": 8290,
+    "open_issues_count": 86,
     "forks_count": 3278
   },
   {
     "full_name": "pactumjs/pactum",
-    "stargazers_count": 510,
+    "stargazers_count": 512,
     "open_issues_count": 9,
     "forks_count": 50
   },
   {
     "full_name": "CanadaHonk/test262.fyi",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 20,
     "forks_count": 7
   }
