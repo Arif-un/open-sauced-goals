@@ -1,21 +1,21 @@
 [
   {
     "full_name": "sidpalas/devops-directive-docker-course",
-    "stargazers_count": 1601,
+    "stargazers_count": 1621,
     "open_issues_count": 11,
-    "forks_count": 940
+    "forks_count": 956
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 189369,
+    "stargazers_count": 189798,
     "open_issues_count": 0,
-    "forks_count": 9297
+    "forks_count": 9313
   },
   {
     "full_name": "fuma-nama/fumadocs",
-    "stargazers_count": 1065,
-    "open_issues_count": 7,
-    "forks_count": 63
+    "stargazers_count": 1093,
+    "open_issues_count": 6,
+    "forks_count": 66
   },
   {
     "full_name": "sjsakib/gold-price",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "DannyMoerkerke/whatpwacando.today",
-    "stargazers_count": 521,
+    "stargazers_count": 523,
     "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "firecmsco/neat",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 28680,
-    "open_issues_count": 39,
-    "forks_count": 1286
+    "stargazers_count": 28762,
+    "open_issues_count": 41,
+    "forks_count": 1291
   },
   {
     "full_name": "saas-kits/remix-boilerplate",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "IORoot/SVGencode",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 3480,
-    "open_issues_count": 40,
-    "forks_count": 142
+    "stargazers_count": 3515,
+    "open_issues_count": 41,
+    "forks_count": 143
   },
   {
     "full_name": "wg/wrk",
-    "stargazers_count": 37314,
+    "stargazers_count": 37330,
     "open_issues_count": 194,
     "forks_count": 2919
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 151397,
+    "stargazers_count": 151521,
     "open_issues_count": 243,
-    "forks_count": 14448
+    "forks_count": 14455
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 26230,
+    "stargazers_count": 26240,
     "open_issues_count": 14,
-    "forks_count": 6206
+    "forks_count": 6213
   },
   {
     "full_name": "benz2012/wiggle-animate",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "miroslavpejic85/mirotalksfu",
-    "stargazers_count": 2006,
+    "stargazers_count": 2010,
     "open_issues_count": 3,
     "forks_count": 324
   },
   {
     "full_name": "prevwong/reka.js",
-    "stargazers_count": 558,
+    "stargazers_count": 560,
     "open_issues_count": 33,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "Arif-un/Codeigniter-Blog",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "ulixee/hero",
-    "stargazers_count": 670,
+    "stargazers_count": 672,
     "open_issues_count": 40,
     "forks_count": 32
   },
@@ -111,31 +111,31 @@
     "full_name": "wotschofsky/domain-digger",
     "stargazers_count": 423,
     "open_issues_count": 2,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "orbitinghail/sqlsync",
-    "stargazers_count": 2208,
+    "stargazers_count": 2212,
     "open_issues_count": 27,
     "forks_count": 29
   },
   {
     "full_name": "chrisguttandin/worker-timers",
-    "stargazers_count": 564,
+    "stargazers_count": 566,
     "open_issues_count": 2,
     "forks_count": 26
   },
   {
     "full_name": "tinylibs/tinybench",
-    "stargazers_count": 1680,
-    "open_issues_count": 13,
+    "stargazers_count": 1686,
+    "open_issues_count": 12,
     "forks_count": 35
   },
   {
     "full_name": "algolia/autocomplete",
-    "stargazers_count": 4981,
+    "stargazers_count": 4985,
     "open_issues_count": 47,
-    "forks_count": 329
+    "forks_count": 328
   },
   {
     "full_name": "rohitrastogi/Interview-Prep",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "phuocng/frontend-tips",
-    "stargazers_count": 619,
+    "stargazers_count": 618,
     "open_issues_count": 1,
     "forks_count": 52
   },
   {
     "full_name": "alienkitty/space.js",
-    "stargazers_count": 385,
+    "stargazers_count": 386,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "nick-keller/react-datasheet-grid",
-    "stargazers_count": 1749,
+    "stargazers_count": 1748,
     "open_issues_count": 56,
     "forks_count": 164
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 8462,
-    "open_issues_count": 75,
-    "forks_count": 3330
+    "stargazers_count": 8469,
+    "open_issues_count": 77,
+    "forks_count": 3331
   },
   {
     "full_name": "pactumjs/pactum",
-    "stargazers_count": 529,
+    "stargazers_count": 530,
     "open_issues_count": 9,
     "forks_count": 52
   },
   {
     "full_name": "test262-fyi/test262.fyi",
-    "stargazers_count": 54,
+    "stargazers_count": 57,
     "open_issues_count": 19,
-    "forks_count": 11
+    "forks_count": 10
   }
 ]
