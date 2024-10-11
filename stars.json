@@ -1,75 +1,81 @@
 [
   {
+    "full_name": "Bit-Apps-Pro/wp-validator",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 29383,
-    "open_issues_count": 65,
-    "forks_count": 3071
+    "stargazers_count": 29443,
+    "open_issues_count": 69,
+    "forks_count": 3085
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 3022,
+    "stargazers_count": 3030,
     "open_issues_count": 6,
-    "forks_count": 302
+    "forks_count": 303
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 335756,
-    "open_issues_count": 68,
-    "forks_count": 61369
+    "stargazers_count": 336007,
+    "open_issues_count": 82,
+    "forks_count": 61406
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 31418,
+    "stargazers_count": 31439,
     "open_issues_count": 133,
-    "forks_count": 1600
+    "forks_count": 1599
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 145371,
+    "stargazers_count": 145642,
     "open_issues_count": 75,
-    "forks_count": 9488
+    "forks_count": 9494
   },
   {
     "full_name": "DovAmir/awesome-design-patterns",
-    "stargazers_count": 39507,
+    "stargazers_count": 39551,
     "open_issues_count": 16,
-    "forks_count": 2896
+    "forks_count": 2898
   },
   {
     "full_name": "oxc-project/oxc",
-    "stargazers_count": 11439,
+    "stargazers_count": 11678,
     "open_issues_count": 151,
-    "forks_count": 414
+    "forks_count": 420
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 4730,
-    "open_issues_count": 9,
-    "forks_count": 518
+    "stargazers_count": 4800,
+    "open_issues_count": 12,
+    "forks_count": 523
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 25552,
-    "open_issues_count": 374,
+    "stargazers_count": 25589,
+    "open_issues_count": 375,
     "forks_count": 1260
   },
   {
     "full_name": "Doriandarko/claude-engineer",
-    "stargazers_count": 9218,
+    "stargazers_count": 9240,
     "open_issues_count": 86,
-    "forks_count": 983
+    "forks_count": 987
   },
   {
     "full_name": "radashi-org/radashi",
-    "stargazers_count": 218,
+    "stargazers_count": 221,
     "open_issues_count": 49,
     "forks_count": 18
   },
   {
     "full_name": "TahaSh/swapy",
-    "stargazers_count": 5644,
+    "stargazers_count": 5714,
     "open_issues_count": 25,
-    "forks_count": 105
+    "forks_count": 110
   },
   {
     "full_name": "steelydylan/react-embed-devtools",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "sidpalas/devops-directive-docker-course",
-    "stargazers_count": 1826,
+    "stargazers_count": 1832,
     "open_issues_count": 12,
-    "forks_count": 1116
+    "forks_count": 1119
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 197714,
+    "stargazers_count": 198166,
     "open_issues_count": 0,
-    "forks_count": 9544
+    "forks_count": 9554
   },
   {
     "full_name": "fuma-nama/fumadocs",
-    "stargazers_count": 1470,
-    "open_issues_count": 12,
-    "forks_count": 88
+    "stargazers_count": 1494,
+    "open_issues_count": 13,
+    "forks_count": 91
   },
   {
     "full_name": "sjsakib/gold-price",
@@ -111,55 +117,55 @@
     "full_name": "DannyMoerkerke/whatpwacando.today",
     "stargazers_count": 550,
     "open_issues_count": 6,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "firecmsco/neat",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 30325,
-    "open_issues_count": 34,
-    "forks_count": 1382
+    "stargazers_count": 30387,
+    "open_issues_count": 37,
+    "forks_count": 1386
   },
   {
     "full_name": "saas-kits/remix-boilerplate",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "IORoot/SVGencode",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 4171,
-    "open_issues_count": 56,
-    "forks_count": 172
+    "stargazers_count": 4201,
+    "open_issues_count": 58,
+    "forks_count": 174
   },
   {
     "full_name": "wg/wrk",
-    "stargazers_count": 37754,
+    "stargazers_count": 37800,
     "open_issues_count": 196,
-    "forks_count": 2934
+    "forks_count": 2936
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 153127,
-    "open_issues_count": 244,
-    "forks_count": 14536
+    "stargazers_count": 153173,
+    "open_issues_count": 246,
+    "forks_count": 14540
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 26843,
+    "stargazers_count": 26892,
     "open_issues_count": 7,
-    "forks_count": 6283
+    "forks_count": 6290
   },
   {
     "full_name": "benz2012/wiggle-animate",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "miroslavpejic85/mirotalksfu",
-    "stargazers_count": 2103,
+    "stargazers_count": 2109,
     "open_issues_count": 5,
-    "forks_count": 333
-  },
-  {
-    "full_name": "prevwong/reka.js",
-    "stargazers_count": 617,
-    "open_issues_count": 34,
-    "forks_count": 42
+    "forks_count": 334
   }
 ]
