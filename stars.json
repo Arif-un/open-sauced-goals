@@ -1,26 +1,26 @@
 [
   {
     "full_name": "microsoft/genaiscript",
-    "stargazers_count": 1804,
-    "open_issues_count": 42,
-    "forks_count": 104
+    "stargazers_count": 1911,
+    "open_issues_count": 50,
+    "forks_count": 107
   },
   {
     "full_name": "meta-llama/llama-recipes",
-    "stargazers_count": 14937,
-    "open_issues_count": 69,
-    "forks_count": 2148
+    "stargazers_count": 15043,
+    "open_issues_count": 72,
+    "forks_count": 2170
   },
   {
     "full_name": "soimort/you-get",
-    "stargazers_count": 53751,
+    "stargazers_count": 53803,
     "open_issues_count": 378,
-    "forks_count": 9625
+    "forks_count": 9628
   },
   {
     "full_name": "umap-project/umap",
-    "stargazers_count": 1186,
-    "open_issues_count": 271,
+    "stargazers_count": 1190,
+    "open_issues_count": 267,
     "forks_count": 226
   },
   {
@@ -31,39 +31,39 @@
   },
   {
     "full_name": "ESBenchmark/ESBench",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "evanwashere/mitata",
-    "stargazers_count": 1241,
+    "stargazers_count": 1256,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "nolly-studio/cult-ui",
-    "stargazers_count": 1496,
+    "stargazers_count": 1542,
     "open_issues_count": 4,
     "forks_count": 51
   },
   {
     "full_name": "codse/animata",
-    "stargazers_count": 1344,
+    "stargazers_count": 1371,
     "open_issues_count": 69,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "marpple/FxTS",
-    "stargazers_count": 928,
+    "stargazers_count": 930,
     "open_issues_count": 17,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "gabrielpetersson/fast-grid",
-    "stargazers_count": 1114,
+    "stargazers_count": 1124,
     "open_issues_count": 4,
-    "forks_count": 13
+    "forks_count": 15
   },
   {
     "full_name": "Bit-Apps-Pro/wp-validator",
@@ -73,75 +73,75 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 29874,
-    "open_issues_count": 46,
-    "forks_count": 3145
+    "stargazers_count": 29908,
+    "open_issues_count": 44,
+    "forks_count": 3149
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 3166,
+    "stargazers_count": 3179,
     "open_issues_count": 6,
     "forks_count": 320
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 337693,
-    "open_issues_count": 102,
-    "forks_count": 61635
+    "stargazers_count": 337906,
+    "open_issues_count": 98,
+    "forks_count": 61656
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 31669,
+    "stargazers_count": 31686,
     "open_issues_count": 128,
-    "forks_count": 1628
+    "forks_count": 1632
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 148083,
+    "stargazers_count": 148436,
     "open_issues_count": 76,
-    "forks_count": 9570
+    "forks_count": 9582
   },
   {
     "full_name": "DovAmir/awesome-design-patterns",
-    "stargazers_count": 39954,
+    "stargazers_count": 40007,
     "open_issues_count": 18,
-    "forks_count": 2926
+    "forks_count": 2928
   },
   {
     "full_name": "oxc-project/oxc",
-    "stargazers_count": 12293,
-    "open_issues_count": 164,
-    "forks_count": 446
+    "stargazers_count": 12365,
+    "open_issues_count": 146,
+    "forks_count": 450
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 5424,
+    "stargazers_count": 5477,
     "open_issues_count": 10,
-    "forks_count": 603
+    "forks_count": 613
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 25921,
+    "stargazers_count": 25959,
     "open_issues_count": 381,
     "forks_count": 1265
   },
   {
     "full_name": "Doriandarko/claude-engineer",
-    "stargazers_count": 9423,
-    "open_issues_count": 92,
-    "forks_count": 1002
+    "stargazers_count": 9443,
+    "open_issues_count": 94,
+    "forks_count": 1007
   },
   {
     "full_name": "radashi-org/radashi",
-    "stargazers_count": 276,
-    "open_issues_count": 52,
+    "stargazers_count": 281,
+    "open_issues_count": 47,
     "forks_count": 22
   },
   {
     "full_name": "TahaSh/swapy",
-    "stargazers_count": 6484,
+    "stargazers_count": 6560,
     "open_issues_count": 40,
-    "forks_count": 128
+    "forks_count": 130
   },
   {
     "full_name": "steelydylan/react-embed-devtools",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "sidpalas/devops-directive-docker-course",
-    "stargazers_count": 1908,
+    "stargazers_count": 1916,
     "open_issues_count": 13,
-    "forks_count": 1176
+    "forks_count": 1186
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 202127,
+    "stargazers_count": 202665,
     "open_issues_count": 0,
-    "forks_count": 9665
+    "forks_count": 9682
   },
   {
     "full_name": "fuma-nama/fumadocs",
-    "stargazers_count": 1776,
-    "open_issues_count": 8,
-    "forks_count": 109
+    "stargazers_count": 1801,
+    "open_issues_count": 6,
+    "forks_count": 110
   },
   {
     "full_name": "sjsakib/gold-price",
