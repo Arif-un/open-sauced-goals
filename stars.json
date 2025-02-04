@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "nusu/avvvatars",
+    "stargazers_count": 1852,
+    "open_issues_count": 5,
+    "forks_count": 83
+  },
+  {
     "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 5329,
+    "stargazers_count": 5336,
     "open_issues_count": 6,
     "forks_count": 323
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 119377,
-    "open_issues_count": 263,
-    "forks_count": 16093
+    "stargazers_count": 119657,
+    "open_issues_count": 258,
+    "forks_count": 16126
   },
   {
     "full_name": "jorgef/engineeringladders",
@@ -19,25 +25,25 @@
   },
   {
     "full_name": "serafimcloud/21st",
-    "stargazers_count": 3369,
-    "open_issues_count": 1,
-    "forks_count": 133
+    "stargazers_count": 3459,
+    "open_issues_count": 2,
+    "forks_count": 137
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 814,
+    "stargazers_count": 833,
     "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "franken-ui/ui",
-    "stargazers_count": 1930,
-    "open_issues_count": 6,
+    "stargazers_count": 1931,
+    "open_issues_count": 7,
     "forks_count": 28
   },
   {
     "full_name": "qpincon/CartoSVG",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -49,32 +55,32 @@
   },
   {
     "full_name": "beercss/beercss",
-    "stargazers_count": 1525,
-    "open_issues_count": 24,
+    "stargazers_count": 1531,
+    "open_issues_count": 23,
     "forks_count": 56
   },
   {
     "full_name": "themeselection/flyonui",
-    "stargazers_count": 1589,
+    "stargazers_count": 1606,
     "open_issues_count": 7,
     "forks_count": 55
   },
   {
     "full_name": "Lissy93/web-check",
-    "stargazers_count": 23295,
-    "open_issues_count": 83,
-    "forks_count": 1793
+    "stargazers_count": 23459,
+    "open_issues_count": 84,
+    "forks_count": 1800
   },
   {
     "full_name": "WolfVector/neptune-component",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "formkit/drag-and-drop",
-    "stargazers_count": 1697,
-    "open_issues_count": 55,
+    "stargazers_count": 1698,
+    "open_issues_count": 56,
     "forks_count": 37
   },
   {
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "VisActor/VTable",
-    "stargazers_count": 2121,
-    "open_issues_count": 373,
-    "forks_count": 208
+    "stargazers_count": 2128,
+    "open_issues_count": 375,
+    "forks_count": 209
   },
   {
     "full_name": "cyclotruc/gitingest",
-    "stargazers_count": 5311,
+    "stargazers_count": 5389,
     "open_issues_count": 30,
-    "forks_count": 417
+    "forks_count": 430
   },
   {
     "full_name": "Arif-un/pokemon-explorer",
@@ -109,62 +115,62 @@
   },
   {
     "full_name": "shubhamjain/svg-spinners",
-    "stargazers_count": 211,
+    "stargazers_count": 218,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 1515,
-    "open_issues_count": 8,
-    "forks_count": 45
+    "stargazers_count": 1571,
+    "open_issues_count": 9,
+    "forks_count": 47
   },
   {
     "full_name": "ajnart/subs",
-    "stargazers_count": 446,
+    "stargazers_count": 445,
     "open_issues_count": 23,
     "forks_count": 25
   },
   {
     "full_name": "adriankarlen/textfox",
-    "stargazers_count": 1004,
-    "open_issues_count": 4,
-    "forks_count": 26
+    "stargazers_count": 1020,
+    "open_issues_count": 5,
+    "forks_count": 27
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 3019,
-    "open_issues_count": 170,
-    "forks_count": 75
+    "stargazers_count": 3051,
+    "open_issues_count": 186,
+    "forks_count": 77
   },
   {
     "full_name": "mountain-loop/yaak",
-    "stargazers_count": 2633,
-    "open_issues_count": 10,
+    "stargazers_count": 2690,
+    "open_issues_count": 9,
     "forks_count": 81
   },
   {
     "full_name": "Hashnode/awesome-docs-gallery",
-    "stargazers_count": 61,
+    "stargazers_count": 60,
     "open_issues_count": 7,
     "forks_count": 14
   },
   {
     "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 4071,
+    "stargazers_count": 4073,
     "open_issues_count": 7,
     "forks_count": 159
   },
   {
     "full_name": "barvian/fluid-tailwind",
-    "stargazers_count": 1437,
+    "stargazers_count": 1446,
     "open_issues_count": 6,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "barvian/number-flow",
-    "stargazers_count": 5326,
-    "open_issues_count": 10,
+    "stargazers_count": 5345,
+    "open_issues_count": 11,
     "forks_count": 88
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 325,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "souporserious/renoun",
-    "stargazers_count": 460,
-    "open_issues_count": 6,
-    "forks_count": 9
   }
 ]
