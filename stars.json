@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "stargazers_count": 5360,
+    "open_issues_count": 5,
+    "forks_count": 2499
+  },
+  {
     "full_name": "0xJacky/nginx-ui",
-    "stargazers_count": 7781,
-    "open_issues_count": 60,
-    "forks_count": 548
+    "stargazers_count": 7798,
+    "open_issues_count": 59,
+    "forks_count": 553
   },
   {
     "full_name": "chenxch/vite-plugin-dynamic-base",
@@ -13,51 +19,51 @@
   },
   {
     "full_name": "IdoPesok/zsa",
-    "stargazers_count": 922,
+    "stargazers_count": 923,
     "open_issues_count": 19,
     "forks_count": 30
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1876,
-    "open_issues_count": 5,
+    "stargazers_count": 1878,
+    "open_issues_count": 6,
     "forks_count": 84
   },
   {
     "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 5410,
+    "stargazers_count": 5417,
     "open_issues_count": 7,
-    "forks_count": 329
+    "forks_count": 330
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 121225,
+    "stargazers_count": 121359,
     "open_issues_count": 261,
-    "forks_count": 16297
+    "forks_count": 16313
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 8135,
+    "stargazers_count": 8140,
     "open_issues_count": 5,
     "forks_count": 565
   },
   {
     "full_name": "serafimcloud/21st",
-    "stargazers_count": 3882,
-    "open_issues_count": 14,
-    "forks_count": 162
+    "stargazers_count": 3928,
+    "open_issues_count": 15,
+    "forks_count": 166
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 1027,
+    "stargazers_count": 1065,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "franken-ui/ui",
-    "stargazers_count": 2033,
-    "open_issues_count": 3,
-    "forks_count": 28
+    "stargazers_count": 2044,
+    "open_issues_count": 4,
+    "forks_count": 29
   },
   {
     "full_name": "qpincon/CartoSVG",
@@ -73,21 +79,21 @@
   },
   {
     "full_name": "beercss/beercss",
-    "stargazers_count": 1572,
-    "open_issues_count": 17,
+    "stargazers_count": 1643,
+    "open_issues_count": 18,
     "forks_count": 57
   },
   {
     "full_name": "themeselection/flyonui",
-    "stargazers_count": 1725,
-    "open_issues_count": 12,
-    "forks_count": 59
+    "stargazers_count": 1745,
+    "open_issues_count": 11,
+    "forks_count": 62
   },
   {
     "full_name": "Lissy93/web-check",
-    "stargazers_count": 24219,
-    "open_issues_count": 91,
-    "forks_count": 1882
+    "stargazers_count": 24273,
+    "open_issues_count": 92,
+    "forks_count": 1894
   },
   {
     "full_name": "WolfVector/neptune-component",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "formkit/drag-and-drop",
-    "stargazers_count": 1743,
+    "stargazers_count": 1748,
     "open_issues_count": 51,
     "forks_count": 37
   },
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "VisActor/VTable",
-    "stargazers_count": 2273,
-    "open_issues_count": 411,
-    "forks_count": 219
+    "stargazers_count": 2294,
+    "open_issues_count": 389,
+    "forks_count": 223
   },
   {
     "full_name": "cyclotruc/gitingest",
-    "stargazers_count": 7165,
-    "open_issues_count": 37,
-    "forks_count": 564
+    "stargazers_count": 7248,
+    "open_issues_count": 40,
+    "forks_count": 575
   },
   {
     "full_name": "Arif-un/pokemon-explorer",
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 2083,
+    "stargazers_count": 2104,
     "open_issues_count": 15,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "ajnart/subs",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 23,
     "forks_count": 27
   },
   {
     "full_name": "adriankarlen/textfox",
-    "stargazers_count": 1135,
-    "open_issues_count": 14,
-    "forks_count": 31
+    "stargazers_count": 1142,
+    "open_issues_count": 12,
+    "forks_count": 32
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 3563,
-    "open_issues_count": 232,
-    "forks_count": 93
+    "stargazers_count": 3600,
+    "open_issues_count": 226,
+    "forks_count": 95
   },
   {
     "full_name": "mountain-loop/yaak",
-    "stargazers_count": 4618,
+    "stargazers_count": 4942,
     "open_issues_count": 6,
-    "forks_count": 147
+    "forks_count": 153
   },
   {
     "full_name": "Hashnode/awesome-docs-gallery",
     "stargazers_count": 60,
     "open_issues_count": 8,
     "forks_count": 15
-  },
-  {
-    "full_name": "dvtng/react-loading-skeleton",
-    "stargazers_count": 4098,
-    "open_issues_count": 7,
-    "forks_count": 159
   }
 ]
