@@ -1,20 +1,56 @@
 [
   {
+    "full_name": "microsoft/data-formulator",
+    "stargazers_count": 11980,
+    "open_issues_count": 32,
+    "forks_count": 939
+  },
+  {
+    "full_name": "punkpeye/awesome-mcp-servers",
+    "stargazers_count": 51487,
+    "open_issues_count": 105,
+    "forks_count": 3848
+  },
+  {
+    "full_name": "SillyTavern/SillyTavern",
+    "stargazers_count": 14733,
+    "open_issues_count": 261,
+    "forks_count": 3306
+  },
+  {
+    "full_name": "wooorm/refractor",
+    "stargazers_count": 811,
+    "open_issues_count": 0,
+    "forks_count": 42
+  },
+  {
+    "full_name": "jkroso/parse-duration",
+    "stargazers_count": 325,
+    "open_issues_count": 0,
+    "forks_count": 42
+  },
+  {
+    "full_name": "Fiddle-Digital/string-scroll",
+    "stargazers_count": 20,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "luukdv/color.js",
-    "stargazers_count": 368,
+    "stargazers_count": 369,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "surveyjs/survey-library",
-    "stargazers_count": 4433,
-    "open_issues_count": 538,
-    "forks_count": 859
+    "stargazers_count": 4438,
+    "open_issues_count": 534,
+    "forks_count": 860
   },
   {
     "full_name": "react-querybuilder/react-querybuilder",
-    "stargazers_count": 1485,
-    "open_issues_count": 22,
+    "stargazers_count": 1486,
+    "open_issues_count": 23,
     "forks_count": 291
   },
   {
@@ -25,15 +61,15 @@
   },
   {
     "full_name": "openstatusHQ/data-table-filters",
-    "stargazers_count": 1375,
+    "stargazers_count": 1383,
     "open_issues_count": 14,
     "forks_count": 68
   },
   {
     "full_name": "frappe/crm",
-    "stargazers_count": 1382,
-    "open_issues_count": 145,
-    "forks_count": 437
+    "stargazers_count": 1402,
+    "open_issues_count": 143,
+    "forks_count": 440
   },
   {
     "full_name": "SyntaxUI/syntaxui",
@@ -43,33 +79,33 @@
   },
   {
     "full_name": "lsd-rs/lsd",
-    "stargazers_count": 14354,
-    "open_issues_count": 174,
-    "forks_count": 451
+    "stargazers_count": 14366,
+    "open_issues_count": 175,
+    "forks_count": 452
   },
   {
     "full_name": "ui-layouts/cursify",
-    "stargazers_count": 1831,
+    "stargazers_count": 1837,
     "open_issues_count": 12,
     "forks_count": 84
   },
   {
     "full_name": "ui-layouts/uilayouts",
-    "stargazers_count": 1738,
+    "stargazers_count": 1748,
     "open_issues_count": 5,
     "forks_count": 114
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 50896,
-    "open_issues_count": 26,
-    "forks_count": 15641
+    "stargazers_count": 52387,
+    "open_issues_count": 29,
+    "forks_count": 16049
   },
   {
     "full_name": "0xJacky/nginx-ui",
-    "stargazers_count": 8566,
-    "open_issues_count": 47,
-    "forks_count": 611
+    "stargazers_count": 8599,
+    "open_issues_count": 43,
+    "forks_count": 616
   },
   {
     "full_name": "chenxch/vite-plugin-dynamic-base",
@@ -79,51 +115,51 @@
   },
   {
     "full_name": "IdoPesok/zsa",
-    "stargazers_count": 944,
+    "stargazers_count": 945,
     "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1895,
+    "stargazers_count": 1897,
     "open_issues_count": 7,
     "forks_count": 86
   },
   {
     "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 5581,
+    "stargazers_count": 5594,
     "open_issues_count": 7,
     "forks_count": 333
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 126199,
-    "open_issues_count": 274,
-    "forks_count": 16789
+    "stargazers_count": 126669,
+    "open_issues_count": 273,
+    "forks_count": 16833
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 8214,
+    "stargazers_count": 8217,
     "open_issues_count": 5,
     "forks_count": 576
   },
   {
     "full_name": "serafimcloud/21st",
-    "stargazers_count": 4381,
-    "open_issues_count": 48,
-    "forks_count": 208
+    "stargazers_count": 4398,
+    "open_issues_count": 49,
+    "forks_count": 207
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 1721,
+    "stargazers_count": 1749,
     "open_issues_count": 8,
     "forks_count": 56
   },
   {
     "full_name": "franken-ui/ui",
-    "stargazers_count": 2155,
-    "open_issues_count": 4,
-    "forks_count": 31
+    "stargazers_count": 2158,
+    "open_issues_count": 2,
+    "forks_count": 32
   },
   {
     "full_name": "qpincon/CartoSVG",
@@ -135,48 +171,12 @@
     "full_name": "ciar4n/imagehover.css",
     "stargazers_count": 1836,
     "open_issues_count": 7,
-    "forks_count": 233
+    "forks_count": 232
   },
   {
     "full_name": "beercss/beercss",
-    "stargazers_count": 1851,
-    "open_issues_count": 31,
+    "stargazers_count": 1853,
+    "open_issues_count": 30,
     "forks_count": 65
-  },
-  {
-    "full_name": "themeselection/flyonui",
-    "stargazers_count": 1999,
-    "open_issues_count": 4,
-    "forks_count": 74
-  },
-  {
-    "full_name": "Lissy93/web-check",
-    "stargazers_count": 25076,
-    "open_issues_count": 66,
-    "forks_count": 1970
-  },
-  {
-    "full_name": "WolfVector/neptune-component",
-    "stargazers_count": 34,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "formkit/drag-and-drop",
-    "stargazers_count": 1813,
-    "open_issues_count": 50,
-    "forks_count": 42
-  },
-  {
-    "full_name": "Amer-Jabar/khoshnus",
-    "stargazers_count": 244,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "livetrails/targetjs",
-    "stargazers_count": 138,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
