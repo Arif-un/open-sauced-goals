@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "Fosowl/agenticSeek",
+    "stargazers_count": 15430,
+    "open_issues_count": 22,
+    "forks_count": 1371
+  },
+  {
+    "full_name": "google-ai-edge/gallery",
+    "stargazers_count": 7361,
+    "open_issues_count": 64,
+    "forks_count": 460
+  },
+  {
     "full_name": "microsoft/data-formulator",
-    "stargazers_count": 12177,
-    "open_issues_count": 32,
-    "forks_count": 968
+    "stargazers_count": 12269,
+    "open_issues_count": 31,
+    "forks_count": 980
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 52083,
-    "open_issues_count": 108,
-    "forks_count": 3905
+    "stargazers_count": 52622,
+    "open_issues_count": 117,
+    "forks_count": 3946
   },
   {
     "full_name": "SillyTavern/SillyTavern",
-    "stargazers_count": 14849,
-    "open_issues_count": 263,
-    "forks_count": 3325
+    "stargazers_count": 14963,
+    "open_issues_count": 267,
+    "forks_count": 3350
   },
   {
     "full_name": "wooorm/refractor",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "jkroso/parse-duration",
-    "stargazers_count": 327,
+    "stargazers_count": 328,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -44,32 +56,32 @@
   {
     "full_name": "surveyjs/survey-library",
     "stargazers_count": 4439,
-    "open_issues_count": 514,
-    "forks_count": 862
+    "open_issues_count": 512,
+    "forks_count": 864
   },
   {
     "full_name": "react-querybuilder/react-querybuilder",
-    "stargazers_count": 1489,
-    "open_issues_count": 23,
+    "stargazers_count": 1493,
+    "open_issues_count": 24,
     "forks_count": 291
   },
   {
     "full_name": "raphaelsalaja/toldo",
-    "stargazers_count": 252,
+    "stargazers_count": 253,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "openstatusHQ/data-table-filters",
-    "stargazers_count": 1391,
-    "open_issues_count": 14,
-    "forks_count": 69
+    "stargazers_count": 1396,
+    "open_issues_count": 15,
+    "forks_count": 70
   },
   {
     "full_name": "frappe/crm",
-    "stargazers_count": 1411,
+    "stargazers_count": 1423,
     "open_issues_count": 145,
-    "forks_count": 445
+    "forks_count": 450
   },
   {
     "full_name": "SyntaxUI/syntaxui",
@@ -79,32 +91,32 @@
   },
   {
     "full_name": "lsd-rs/lsd",
-    "stargazers_count": 14378,
+    "stargazers_count": 14384,
     "open_issues_count": 176,
     "forks_count": 452
   },
   {
     "full_name": "ui-layouts/cursify",
-    "stargazers_count": 1840,
+    "stargazers_count": 1842,
     "open_issues_count": 12,
     "forks_count": 85
   },
   {
     "full_name": "ui-layouts/uilayouts",
-    "stargazers_count": 1884,
+    "stargazers_count": 1927,
     "open_issues_count": 5,
-    "forks_count": 115
+    "forks_count": 117
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 53507,
-    "open_issues_count": 34,
-    "forks_count": 16387
+    "stargazers_count": 54474,
+    "open_issues_count": 35,
+    "forks_count": 16666
   },
   {
     "full_name": "0xJacky/nginx-ui",
-    "stargazers_count": 8638,
-    "open_issues_count": 46,
+    "stargazers_count": 8662,
+    "open_issues_count": 45,
     "forks_count": 621
   },
   {
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "IdoPesok/zsa",
-    "stargazers_count": 945,
+    "stargazers_count": 947,
     "open_issues_count": 23,
     "forks_count": 35
   },
@@ -127,37 +139,37 @@
   },
   {
     "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 5602,
+    "stargazers_count": 5607,
     "open_issues_count": 7,
-    "forks_count": 334
+    "forks_count": 335
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 127142,
-    "open_issues_count": 274,
-    "forks_count": 16894
+    "stargazers_count": 127732,
+    "open_issues_count": 275,
+    "forks_count": 16950
   },
   {
     "full_name": "jorgef/engineeringladders",
-    "stargazers_count": 8217,
+    "stargazers_count": 8235,
     "open_issues_count": 5,
-    "forks_count": 576
+    "forks_count": 577
   },
   {
     "full_name": "serafimcloud/21st",
-    "stargazers_count": 4420,
+    "stargazers_count": 4451,
     "open_issues_count": 50,
-    "forks_count": 210
+    "forks_count": 211
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 1761,
-    "open_issues_count": 8,
-    "forks_count": 58
+    "stargazers_count": 1834,
+    "open_issues_count": 5,
+    "forks_count": 59
   },
   {
     "full_name": "franken-ui/ui",
-    "stargazers_count": 2163,
+    "stargazers_count": 2166,
     "open_issues_count": 2,
     "forks_count": 32
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 53,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "ciar4n/imagehover.css",
-    "stargazers_count": 1836,
-    "open_issues_count": 7,
-    "forks_count": 232
-  },
-  {
-    "full_name": "beercss/beercss",
-    "stargazers_count": 1858,
-    "open_issues_count": 34,
-    "forks_count": 65
   }
 ]
