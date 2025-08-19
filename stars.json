@@ -1,9 +1,9 @@
 [
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 72866,
-    "open_issues_count": 654,
-    "forks_count": 3842
+    "stargazers_count": 73339,
+    "open_issues_count": 669,
+    "forks_count": 3868
   },
   {
     "full_name": "prappo/wordpress-plugin-boilerplate",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "m1k1o/neko",
-    "stargazers_count": 14848,
-    "open_issues_count": 149,
-    "forks_count": 966
+    "stargazers_count": 14921,
+    "open_issues_count": 151,
+    "forks_count": 975
   },
   {
     "full_name": "stan-smith/FossFLOW",
-    "stargazers_count": 7234,
-    "open_issues_count": 31,
-    "forks_count": 299
+    "stargazers_count": 8970,
+    "open_issues_count": 22,
+    "forks_count": 444
   },
   {
     "full_name": "jlumbroso/passage-of-time-mcp",
@@ -31,39 +31,39 @@
   },
   {
     "full_name": "badlogic/claude-commands",
-    "stargazers_count": 426,
+    "stargazers_count": 430,
     "open_issues_count": 2,
     "forks_count": 25
   },
   {
     "full_name": "Zie619/n8n-workflows",
-    "stargazers_count": 23117,
+    "stargazers_count": 23657,
     "open_issues_count": 7,
-    "forks_count": 8509
+    "forks_count": 8715
   },
   {
     "full_name": "jamubc/gemini-mcp-tool",
-    "stargazers_count": 944,
+    "stargazers_count": 1039,
     "open_issues_count": 8,
-    "forks_count": 64
+    "forks_count": 68
   },
   {
     "full_name": "lahin31/system-design-bangla",
-    "stargazers_count": 1026,
+    "stargazers_count": 1029,
     "open_issues_count": 1,
     "forks_count": 422
   },
   {
     "full_name": "web-padawan/awesome-web-components",
-    "stargazers_count": 3229,
+    "stargazers_count": 3233,
     "open_issues_count": 10,
     "forks_count": 163
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 34944,
-    "open_issues_count": 215,
-    "forks_count": 3983
+    "stargazers_count": 34999,
+    "open_issues_count": 221,
+    "forks_count": 4003
   },
   {
     "full_name": "meodai/rampensau",
@@ -79,61 +79,61 @@
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 18545,
-    "open_issues_count": 110,
-    "forks_count": 810
+    "stargazers_count": 18623,
+    "open_issues_count": 109,
+    "forks_count": 818
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 25841,
+    "stargazers_count": 25899,
     "open_issues_count": 58,
     "forks_count": 415
   },
   {
     "full_name": "Tencent-Hunyuan/Hunyuan3D-2",
-    "stargazers_count": 11314,
-    "open_issues_count": 200,
-    "forks_count": 1055
+    "stargazers_count": 11365,
+    "open_issues_count": 201,
+    "forks_count": 1069
   },
   {
     "full_name": "Olow304/memvid",
-    "stargazers_count": 8292,
+    "stargazers_count": 8297,
     "open_issues_count": 40,
     "forks_count": 703
   },
   {
     "full_name": "Fosowl/agenticSeek",
-    "stargazers_count": 20775,
-    "open_issues_count": 35,
-    "forks_count": 2100
+    "stargazers_count": 20862,
+    "open_issues_count": 36,
+    "forks_count": 2115
   },
   {
     "full_name": "google-ai-edge/gallery",
-    "stargazers_count": 13218,
-    "open_issues_count": 136,
-    "forks_count": 1037
+    "stargazers_count": 13319,
+    "open_issues_count": 141,
+    "forks_count": 1055
   },
   {
     "full_name": "microsoft/data-formulator",
-    "stargazers_count": 12990,
-    "open_issues_count": 37,
-    "forks_count": 1081
+    "stargazers_count": 13233,
+    "open_issues_count": 38,
+    "forks_count": 1124
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 66044,
-    "open_issues_count": 74,
-    "forks_count": 5304
+    "stargazers_count": 66491,
+    "open_issues_count": 81,
+    "forks_count": 5350
   },
   {
     "full_name": "SillyTavern/SillyTavern",
-    "stargazers_count": 17310,
-    "open_issues_count": 323,
-    "forks_count": 3793
+    "stargazers_count": 17401,
+    "open_issues_count": 331,
+    "forks_count": 3819
   },
   {
     "full_name": "wooorm/refractor",
-    "stargazers_count": 818,
+    "stargazers_count": 811,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "luukdv/color.js",
-    "stargazers_count": 380,
+    "stargazers_count": 382,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "surveyjs/survey-library",
-    "stargazers_count": 4523,
-    "open_issues_count": 511,
-    "forks_count": 876
+    "stargazers_count": 4526,
+    "open_issues_count": 513,
+    "forks_count": 877
   },
   {
     "full_name": "react-querybuilder/react-querybuilder",
-    "stargazers_count": 1542,
+    "stargazers_count": 1543,
     "open_issues_count": 23,
     "forks_count": 294
   },
   {
     "full_name": "raphaelsalaja/toldo",
-    "stargazers_count": 261,
+    "stargazers_count": 263,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "openstatusHQ/data-table-filters",
-    "stargazers_count": 1597,
+    "stargazers_count": 1609,
     "open_issues_count": 16,
-    "forks_count": 87
+    "forks_count": 88
   }
 ]
