@@ -1,31 +1,31 @@
 [
   {
     "full_name": "roots/bedrock",
-    "stargazers_count": 6491,
+    "stargazers_count": 6493,
     "open_issues_count": 6,
     "forks_count": 1187
   },
   {
     "full_name": "lochie/web-haptics",
-    "stargazers_count": 2261,
+    "stargazers_count": 2287,
     "open_issues_count": 22,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "Notifuse/notifuse",
-    "stargazers_count": 1891,
-    "open_issues_count": 6,
-    "forks_count": 183
+    "stargazers_count": 1894,
+    "open_issues_count": 8,
+    "forks_count": 184
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 40559,
-    "open_issues_count": 76,
-    "forks_count": 2593
+    "stargazers_count": 40864,
+    "open_issues_count": 67,
+    "forks_count": 2608
   },
   {
     "full_name": "ivankra/javascript-zoo",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -37,39 +37,39 @@
   },
   {
     "full_name": "HazelChat/hazel",
-    "stargazers_count": 614,
-    "open_issues_count": 11,
+    "stargazers_count": 617,
+    "open_issues_count": 13,
     "forks_count": 47
   },
   {
     "full_name": "iii-hq/iii",
-    "stargazers_count": 15238,
-    "open_issues_count": 84,
-    "forks_count": 1018
+    "stargazers_count": 15243,
+    "open_issues_count": 88,
+    "forks_count": 1019
   },
   {
     "full_name": "tw93/Mole",
-    "stargazers_count": 43639,
-    "open_issues_count": 2,
-    "forks_count": 1270
+    "stargazers_count": 44170,
+    "open_issues_count": 0,
+    "forks_count": 1290
   },
   {
     "full_name": "resemble-ai/chatterbox",
-    "stargazers_count": 23915,
-    "open_issues_count": 324,
-    "forks_count": 3175
+    "stargazers_count": 23990,
+    "open_issues_count": 325,
+    "forks_count": 3180
   },
   {
     "full_name": "filipsobol/sonda",
-    "stargazers_count": 759,
-    "open_issues_count": 13,
+    "stargazers_count": 760,
+    "open_issues_count": 16,
     "forks_count": 20
   },
   {
     "full_name": "aniftyco/awesome-tailwindcss",
-    "stargazers_count": 14940,
+    "stargazers_count": 14941,
     "open_issues_count": 0,
-    "forks_count": 997
+    "forks_count": 998
   },
   {
     "full_name": "SameerJS6/lina",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 103305,
-    "open_issues_count": 2,
-    "forks_count": 15075
+    "stargazers_count": 103694,
+    "open_issues_count": 5,
+    "forks_count": 15138
   },
   {
     "full_name": "marsbos/fluent-state",
@@ -103,39 +103,39 @@
   },
   {
     "full_name": "travisvn/awesome-claude-skills",
-    "stargazers_count": 9609,
-    "open_issues_count": 168,
-    "forks_count": 877
+    "stargazers_count": 9843,
+    "open_issues_count": 197,
+    "forks_count": 923
   },
   {
     "full_name": "aandrew-me/ytDownloader",
-    "stargazers_count": 8910,
+    "stargazers_count": 8943,
     "open_issues_count": 35,
     "forks_count": 767
   },
   {
     "full_name": "Avijit07x/animateicons",
-    "stargazers_count": 791,
+    "stargazers_count": 794,
     "open_issues_count": 2,
     "forks_count": 40
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 29548,
-    "open_issues_count": 27,
-    "forks_count": 2377
+    "stargazers_count": 29799,
+    "open_issues_count": 33,
+    "forks_count": 2402
   },
   {
     "full_name": "ashishpatel26/500-AI-Agents-Projects",
-    "stargazers_count": 27063,
+    "stargazers_count": 27358,
     "open_issues_count": 58,
-    "forks_count": 4723
+    "forks_count": 4767
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 95560,
-    "open_issues_count": 678,
-    "forks_count": 5166
+    "stargazers_count": 95782,
+    "open_issues_count": 663,
+    "forks_count": 5188
   },
   {
     "full_name": "prappo/wordpress-plugin-boilerplate",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "m1k1o/neko",
-    "stargazers_count": 20192,
-    "open_issues_count": 165,
-    "forks_count": 1422
+    "stargazers_count": 20227,
+    "open_issues_count": 164,
+    "forks_count": 1423
   },
   {
     "full_name": "stan-smith/FossFLOW",
-    "stargazers_count": 19191,
-    "open_issues_count": 14,
-    "forks_count": 1258
+    "stargazers_count": 19223,
+    "open_issues_count": 16,
+    "forks_count": 1261
   },
   {
     "full_name": "jlumbroso/passage-of-time-mcp",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "badlogic/claude-commands",
-    "stargazers_count": 497,
+    "stargazers_count": 498,
     "open_issues_count": 2,
     "forks_count": 28
   },
   {
     "full_name": "Zie619/n8n-workflows",
-    "stargazers_count": 53155,
-    "open_issues_count": 20,
-    "forks_count": 6892
+    "stargazers_count": 53225,
+    "open_issues_count": 21,
+    "forks_count": 6907
   },
   {
     "full_name": "jamubc/gemini-mcp-tool",
-    "stargazers_count": 2093,
+    "stargazers_count": 2103,
     "open_issues_count": 24,
     "forks_count": 176
   }
