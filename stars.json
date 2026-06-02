@@ -1,87 +1,93 @@
 [
   {
+    "full_name": "shobcoder/shob",
+    "stargazers_count": 245,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
     "full_name": "microsoft/Webwright",
-    "stargazers_count": 3934,
-    "open_issues_count": 16,
-    "forks_count": 215
+    "stargazers_count": 4760,
+    "open_issues_count": 29,
+    "forks_count": 270
   },
   {
     "full_name": "itshover/itshover",
-    "stargazers_count": 2220,
-    "open_issues_count": 42,
-    "forks_count": 139
+    "stargazers_count": 2230,
+    "open_issues_count": 43,
+    "forks_count": 141
   },
   {
     "full_name": "Vrun-design/openflowkit",
-    "stargazers_count": 573,
+    "stargazers_count": 578,
     "open_issues_count": 2,
     "forks_count": 111
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 12094,
-    "open_issues_count": 192,
-    "forks_count": 807
+    "stargazers_count": 12106,
+    "open_issues_count": 185,
+    "forks_count": 813
   },
   {
     "full_name": "zonelessdev/zoneless",
     "stargazers_count": 303,
     "open_issues_count": 1,
-    "forks_count": 31
+    "forks_count": 30
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 47522,
-    "open_issues_count": 157,
-    "forks_count": 5301
+    "stargazers_count": 47632,
+    "open_issues_count": 160,
+    "forks_count": 5317
   },
   {
     "full_name": "sbarex/QLMarkdown",
-    "stargazers_count": 2919,
-    "open_issues_count": 34,
-    "forks_count": 82
+    "stargazers_count": 2939,
+    "open_issues_count": 35,
+    "forks_count": 83
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 128099,
-    "open_issues_count": 673,
-    "forks_count": 8776
+    "stargazers_count": 139247,
+    "open_issues_count": 793,
+    "forks_count": 9480
   },
   {
     "full_name": "Saganaki22/ComfyUI-OmniVoice-TTS",
-    "stargazers_count": 396,
+    "stargazers_count": 400,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "browser-use/browser-harness",
-    "stargazers_count": 13963,
-    "open_issues_count": 105,
-    "forks_count": 1295
+    "stargazers_count": 14195,
+    "open_issues_count": 112,
+    "forks_count": 1318
   },
   {
     "full_name": "k2-fsa/OmniVoice",
-    "stargazers_count": 6690,
-    "open_issues_count": 45,
-    "forks_count": 1007
+    "stargazers_count": 6917,
+    "open_issues_count": 51,
+    "forks_count": 1037
   },
   {
     "full_name": "likec4/likec4",
-    "stargazers_count": 3306,
-    "open_issues_count": 164,
+    "stargazers_count": 3333,
+    "open_issues_count": 167,
     "forks_count": 216
   },
   {
     "full_name": "pqoqubbw/icons",
-    "stargazers_count": 7633,
-    "open_issues_count": 11,
+    "stargazers_count": 7647,
+    "open_issues_count": 9,
     "forks_count": 268
   },
   {
     "full_name": "glincker/thesvg",
-    "stargazers_count": 2094,
-    "open_issues_count": 10,
-    "forks_count": 162
+    "stargazers_count": 2185,
+    "open_issues_count": 34,
+    "forks_count": 169
   },
   {
     "full_name": "componade/calendarjs",
@@ -91,45 +97,45 @@
   },
   {
     "full_name": "openziti/zrok",
-    "stargazers_count": 4444,
-    "open_issues_count": 116,
+    "stargazers_count": 4450,
+    "open_issues_count": 117,
     "forks_count": 201
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 197571,
-    "open_issues_count": 33,
-    "forks_count": 30384
+    "stargazers_count": 202534,
+    "open_issues_count": 54,
+    "forks_count": 31065
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 192764,
-    "open_issues_count": 1411,
-    "forks_count": 109975
+    "stargazers_count": 193103,
+    "open_issues_count": 1413,
+    "forks_count": 109995
   },
   {
     "full_name": "roots/bedrock",
     "stargazers_count": 6520,
     "open_issues_count": 4,
-    "forks_count": 1181
+    "forks_count": 1179
   },
   {
     "full_name": "lochie/web-haptics",
-    "stargazers_count": 2589,
+    "stargazers_count": 2597,
     "open_issues_count": 27,
     "forks_count": 81
   },
   {
     "full_name": "Notifuse/notifuse",
-    "stargazers_count": 1970,
+    "stargazers_count": 1971,
     "open_issues_count": 10,
     "forks_count": 198
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 48356,
-    "open_issues_count": 106,
-    "forks_count": 3382
+    "stargazers_count": 48697,
+    "open_issues_count": 124,
+    "forks_count": 3419
   },
   {
     "full_name": "ivankra/javascript-zoo",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "iii-hq/iii",
-    "stargazers_count": 17141,
-    "open_issues_count": 42,
-    "forks_count": 1128
+    "stargazers_count": 17476,
+    "open_issues_count": 37,
+    "forks_count": 1151
   },
   {
     "full_name": "tw93/Mole",
-    "stargazers_count": 53750,
-    "open_issues_count": 2,
-    "forks_count": 1719
+    "stargazers_count": 54355,
+    "open_issues_count": 9,
+    "forks_count": 1744
   },
   {
     "full_name": "resemble-ai/chatterbox",
-    "stargazers_count": 24885,
-    "open_issues_count": 340,
-    "forks_count": 3297
+    "stargazers_count": 24919,
+    "open_issues_count": 341,
+    "forks_count": 3304
   },
   {
     "full_name": "filipsobol/sonda",
     "stargazers_count": 771,
     "open_issues_count": 31,
     "forks_count": 20
-  },
-  {
-    "full_name": "aniftyco/awesome-tailwindcss",
-    "stargazers_count": 15017,
-    "open_issues_count": 0,
-    "forks_count": 1017
   }
 ]
