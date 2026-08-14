@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "Openpanel-dev/openpanel",
+    "stargazers_count": 6577,
+    "open_issues_count": 79,
+    "forks_count": 425
+  },
+  {
     "full_name": "DavidHDev/canvas-ui",
-    "stargazers_count": 3721,
-    "open_issues_count": 2,
-    "forks_count": 187
+    "stargazers_count": 3881,
+    "open_issues_count": 3,
+    "forks_count": 197
   },
   {
     "full_name": "litepacks/welyjs",
@@ -13,49 +19,49 @@
   },
   {
     "full_name": "dashersw/gea",
-    "stargazers_count": 1232,
-    "open_issues_count": 33,
+    "stargazers_count": 1231,
+    "open_issues_count": 35,
     "forks_count": 46
   },
   {
     "full_name": "usestrix/strix",
-    "stargazers_count": 50859,
-    "open_issues_count": 264,
-    "forks_count": 5430
+    "stargazers_count": 51888,
+    "open_issues_count": 281,
+    "forks_count": 5574
   },
   {
     "full_name": "dqev/reicon",
-    "stargazers_count": 1221,
-    "open_issues_count": 5,
+    "stargazers_count": 1227,
+    "open_issues_count": 7,
     "forks_count": 68
   },
   {
     "full_name": "Automattic/pressship",
     "stargazers_count": 52,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 1
   },
   {
     "full_name": "stoolap/stoolap",
-    "stargazers_count": 1205,
-    "open_issues_count": 8,
+    "stargazers_count": 1207,
+    "open_issues_count": 9,
     "forks_count": 44
   },
   {
     "full_name": "retlehs/quien",
-    "stargazers_count": 1243,
-    "open_issues_count": 9,
+    "stargazers_count": 1246,
+    "open_issues_count": 10,
     "forks_count": 32
   },
   {
     "full_name": "heygen-com/hyperframes",
-    "stargazers_count": 40448,
-    "open_issues_count": 231,
-    "forks_count": 3852
+    "stargazers_count": 40885,
+    "open_issues_count": 209,
+    "forks_count": 3898
   },
   {
     "full_name": "vibeflowing-inc/vibe_figma",
-    "stargazers_count": 836,
+    "stargazers_count": 837,
     "open_issues_count": 4,
     "forks_count": 77
   },
@@ -67,116 +73,110 @@
   },
   {
     "full_name": "Jakubantalik/transitions.dev",
-    "stargazers_count": 2613,
+    "stargazers_count": 2687,
     "open_issues_count": 5,
-    "forks_count": 120
+    "forks_count": 124
   },
   {
     "full_name": "jamiepine/voicebox",
-    "stargazers_count": 50014,
-    "open_issues_count": 627,
-    "forks_count": 6191
+    "stargazers_count": 50327,
+    "open_issues_count": 640,
+    "forks_count": 6240
   },
   {
     "full_name": "gkurt/tegaki",
-    "stargazers_count": 3026,
+    "stargazers_count": 3031,
     "open_issues_count": 4,
     "forks_count": 116
   },
   {
     "full_name": "PleasePrompto/notebooklm-skill",
-    "stargazers_count": 7597,
+    "stargazers_count": 7619,
     "open_issues_count": 38,
-    "forks_count": 861
+    "forks_count": 865
   },
   {
     "full_name": "shobcoder/shob",
-    "stargazers_count": 581,
-    "open_issues_count": 5,
+    "stargazers_count": 582,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "microsoft/Webwright",
-    "stargazers_count": 5903,
+    "stargazers_count": 5909,
     "open_issues_count": 46,
-    "forks_count": 372
+    "forks_count": 373
   },
   {
     "full_name": "itshover/itshover",
-    "stargazers_count": 2600,
+    "stargazers_count": 2607,
     "open_issues_count": 63,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "Vrun-design/openflowkit",
-    "stargazers_count": 679,
+    "stargazers_count": 683,
     "open_issues_count": 4,
-    "forks_count": 134
+    "forks_count": 137
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 14321,
-    "open_issues_count": 184,
-    "forks_count": 1158
+    "stargazers_count": 14341,
+    "open_issues_count": 182,
+    "forks_count": 1162
   },
   {
     "full_name": "zonelessdev/zoneless",
-    "stargazers_count": 338,
+    "stargazers_count": 339,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 52336,
-    "open_issues_count": 180,
-    "forks_count": 5901
+    "stargazers_count": 52658,
+    "open_issues_count": 181,
+    "forks_count": 5940
   },
   {
     "full_name": "sbarex/QLMarkdown",
-    "stargazers_count": 3315,
+    "stargazers_count": 3329,
     "open_issues_count": 35,
     "forks_count": 98
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 172970,
-    "open_issues_count": 848,
-    "forks_count": 12615
+    "stargazers_count": 173628,
+    "open_issues_count": 857,
+    "forks_count": 12678
   },
   {
     "full_name": "Saganaki22/ComfyUI-OmniVoice-TTS",
-    "stargazers_count": 528,
+    "stargazers_count": 529,
     "open_issues_count": 2,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "browser-use/browser-harness",
-    "stargazers_count": 16638,
-    "open_issues_count": 240,
-    "forks_count": 1575
+    "stargazers_count": 16682,
+    "open_issues_count": 246,
+    "forks_count": 1581
   },
   {
     "full_name": "k2-fsa/OmniVoice",
-    "stargazers_count": 8928,
-    "open_issues_count": 46,
-    "forks_count": 1468
+    "stargazers_count": 9092,
+    "open_issues_count": 47,
+    "forks_count": 1494
   },
   {
     "full_name": "likec4/likec4",
-    "stargazers_count": 5401,
-    "open_issues_count": 175,
-    "forks_count": 357
+    "stargazers_count": 5420,
+    "open_issues_count": 174,
+    "forks_count": 358
   },
   {
     "full_name": "pqoqubbw/icons",
-    "stargazers_count": 7918,
+    "stargazers_count": 7948,
     "open_issues_count": 6,
-    "forks_count": 278
-  },
-  {
-    "full_name": "glincker/thesvg",
-    "stargazers_count": 2548,
-    "open_issues_count": 1,
-    "forks_count": 196
+    "forks_count": 279
   }
 ]
