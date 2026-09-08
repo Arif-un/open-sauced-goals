@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "guillaumemeyer/watermarks-remover",
+    "stargazers_count": 21291,
+    "open_issues_count": 22,
+    "forks_count": 2451
+  },
+  {
+    "full_name": "666OS/ClashMac",
+    "stargazers_count": 6254,
+    "open_issues_count": 175,
+    "forks_count": 266
+  },
+  {
+    "full_name": "BuilderIO/mitosis",
+    "stargazers_count": 14364,
+    "open_issues_count": 176,
+    "forks_count": 668
+  },
+  {
     "full_name": "Dinil-Thilakarathne/sona-ui",
-    "stargazers_count": 80,
+    "stargazers_count": 101,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -13,39 +31,39 @@
   },
   {
     "full_name": "AprilNEA/OpenLogi",
-    "stargazers_count": 18986,
-    "open_issues_count": 465,
-    "forks_count": 572
+    "stargazers_count": 20002,
+    "open_issues_count": 497,
+    "forks_count": 617
   },
   {
     "full_name": "MengTo/threeui",
-    "stargazers_count": 5078,
+    "stargazers_count": 5350,
     "open_issues_count": 9,
-    "forks_count": 502
+    "forks_count": 518
   },
   {
     "full_name": "furkan/dockerlings",
-    "stargazers_count": 1030,
+    "stargazers_count": 1031,
     "open_issues_count": 0,
     "forks_count": 71
   },
   {
     "full_name": "CloudAI-X/threejs-skills",
-    "stargazers_count": 3233,
+    "stargazers_count": 3259,
     "open_issues_count": 9,
-    "forks_count": 369
+    "forks_count": 373
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 6857,
-    "open_issues_count": 39,
-    "forks_count": 462
+    "stargazers_count": 6894,
+    "open_issues_count": 45,
+    "forks_count": 467
   },
   {
     "full_name": "DavidHDev/canvas-ui",
-    "stargazers_count": 4476,
+    "stargazers_count": 4512,
     "open_issues_count": 4,
-    "forks_count": 221
+    "forks_count": 223
   },
   {
     "full_name": "litepacks/welyjs",
@@ -55,32 +73,32 @@
   },
   {
     "full_name": "dashersw/gea",
-    "stargazers_count": 1237,
-    "open_issues_count": 38,
+    "stargazers_count": 1240,
+    "open_issues_count": 39,
     "forks_count": 47
   },
   {
     "full_name": "usestrix/strix",
-    "stargazers_count": 60436,
-    "open_issues_count": 346,
-    "forks_count": 6604
+    "stargazers_count": 61163,
+    "open_issues_count": 358,
+    "forks_count": 6695
   },
   {
     "full_name": "dqev/reicon",
-    "stargazers_count": 1416,
+    "stargazers_count": 1482,
     "open_issues_count": 5,
-    "forks_count": 77
+    "forks_count": 79
   },
   {
     "full_name": "Automattic/pressship",
     "stargazers_count": 51,
-    "open_issues_count": 28,
+    "open_issues_count": 29,
     "forks_count": 1
   },
   {
     "full_name": "stoolap/stoolap",
-    "stargazers_count": 1211,
-    "open_issues_count": 11,
+    "stargazers_count": 1216,
+    "open_issues_count": 9,
     "forks_count": 45
   },
   {
@@ -91,9 +109,9 @@
   },
   {
     "full_name": "heygen-com/hyperframes",
-    "stargazers_count": 43881,
-    "open_issues_count": 250,
-    "forks_count": 4207
+    "stargazers_count": 46665,
+    "open_issues_count": 181,
+    "forks_count": 4348
   },
   {
     "full_name": "vibeflowing-inc/vibe_figma",
@@ -103,80 +121,62 @@
   },
   {
     "full_name": "blazejkustra/react-native-morph-view",
-    "stargazers_count": 123,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "Jakubantalik/transitions.dev",
-    "stargazers_count": 3470,
+    "stargazers_count": 3508,
     "open_issues_count": 7,
     "forks_count": 142
   },
   {
     "full_name": "jamiepine/voicebox",
-    "stargazers_count": 52264,
-    "open_issues_count": 671,
-    "forks_count": 6509
+    "stargazers_count": 52579,
+    "open_issues_count": 679,
+    "forks_count": 6558
   },
   {
     "full_name": "gkurt/tegaki",
-    "stargazers_count": 3067,
+    "stargazers_count": 3075,
     "open_issues_count": 4,
-    "forks_count": 116
+    "forks_count": 117
   },
   {
     "full_name": "PleasePrompto/notebooklm-skill",
-    "stargazers_count": 7752,
-    "open_issues_count": 39,
-    "forks_count": 878
+    "stargazers_count": 7759,
+    "open_issues_count": 40,
+    "forks_count": 879
   },
   {
     "full_name": "shobcoder/shob",
-    "stargazers_count": 581,
-    "open_issues_count": 5,
+    "stargazers_count": 580,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "microsoft/Webwright",
-    "stargazers_count": 5960,
+    "stargazers_count": 5959,
     "open_issues_count": 48,
     "forks_count": 383
   },
   {
     "full_name": "itshover/itshover",
-    "stargazers_count": 2662,
+    "stargazers_count": 2665,
     "open_issues_count": 65,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "Vrun-design/openflowkit",
-    "stargazers_count": 746,
-    "open_issues_count": 13,
-    "forks_count": 160
+    "stargazers_count": 751,
+    "open_issues_count": 15,
+    "forks_count": 162
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 14498,
-    "open_issues_count": 173,
-    "forks_count": 1197
-  },
-  {
-    "full_name": "zonelessdev/zoneless",
-    "stargazers_count": 525,
-    "open_issues_count": 4,
-    "forks_count": 46
-  },
-  {
-    "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 53669,
-    "open_issues_count": 184,
-    "forks_count": 6058
-  },
-  {
-    "full_name": "sbarex/QLMarkdown",
-    "stargazers_count": 3495,
-    "open_issues_count": 36,
-    "forks_count": 102
+    "stargazers_count": 14517,
+    "open_issues_count": 175,
+    "forks_count": 1203
   }
 ]
